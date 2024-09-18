@@ -1,0 +1,4 @@
+\babel@toc {french}{}\relax 
+\contentsline {part}{I\hspace {1em}MPSI}{1}{}%
+\contentsline {part}{II\hspace {1em}MPI}{3}{}%
+\contentsline {part}{III\hspace {1em}MP}{5}{}%
