@@ -1,26 +1,50 @@
 \documentclass[a4paper,12pt,french]{book}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage{babel}
 \usepackage{graphicx}
+\usepackage{calc}
+
+\usepackage[french]{babel}
+\usepackage[european, straightvoltages, siunitx]{circuitikz}
+\usetikzlibrary{babel}
+\ctikzset{inductor=american}
+
+\usepackage{siunitx}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+% Clear all header and footer fields
+\fancyhf{}
+
+% Define the header to include the chapter label
+\fancyhead[LE,RO]{\leftmark $~$\rightmark} % Left pages (even): chapter, Right pages (odd): chapter
+
+\newcommand{\e}[1]{\vspace{5mm}\noindent \textbf{\underline{#1}}}
+
+\newcommand{\makeline}{\noindent\makebox[\linewidth]{\rule{\linewidth}{0.4pt}}}
+
+\setcounter{secnumdepth}{-1}
 
 \begin{document}
+	
+	
 
-\author{TeXstudio Team}
-\title{Simple Book Example}
-\date{January 2013}
+\author{Chams GHARIB}
+\title{Colles de Physique-Chimie}
+\date{2024-2025}
 
 \frontmatter
 \maketitle
 \tableofcontents
 
 \mainmatter
-\part{MPSI}
+\chapter{MPSI}
 \include{./TeX_files/MPSI/sem01.tex}
 
-\part{MPI}
+\chapter{MPI}
 
-\part{MP}
+\chapter{MP}
 \include{./TeX_files/MP/sem01.tex}
 
 \backmatter

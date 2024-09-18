@@ -1,0 +1,83 @@
+\section{Semaine 01 (16/09-20/09) }
+
+
+\e{Notions abordées :}
+\begin{itemize}
+	\item Révisions de MPSI en électronique.
+	\item Filtrage d'un signal périodique.
+	\item Traitement numérique du signal.
+\end{itemize}
+
+\subsection{Exercice 1}
+
+\begin{minipage}[c]{\linewidth/3}
+	\begin{circuitikz}
+		%Circuit
+		\draw (0, 0) 
+			to[R, l=$R$] (3, 0)
+			to [L, l=$L$, v<=$v_s$] ++ (0, -2)
+			-- (0, -2)
+			to [open, v=$v_e$] (0, 0);
+	\end{circuitikz}
+\end{minipage}%
+\begin{minipage}[c]{\linewidth/2}
+	On donne $R = \SI{1.0}{k\Omega}$ et $L = \SI{10}{mH}$.
+	\begin{enumerate}
+		\item Quel type de filtre ce circuit permet-il de réaliser ?
+		\item Déterminer sa fonction de transfert.
+		\item Déterminer les pentes des asymptotes en gain BF et HF.
+		\item $v_e$ s'écrit comme somme de trois harmoniques de même amplitude, de même phase à l'origine et de fréquences respectives $f_1 = \SI{100}{Hz}$, $f_2 = \SI{1}{kHz}$ et $f_3 = \SI{100}{kHz}$. Écrire $v_e$ puis $v_s$.
+		\item $v_e$ est maintenant un triangle de fréquence \SI{60}{Hz}. Quelle est la forme de $v_s$ ?
+	\end{enumerate}
+\end{minipage}
+
+\subsection{Exercice 2}
+
+\begin{minipage}[c]{\linewidth/2}
+	\begin{circuitikz}
+		%Circuit
+		\draw (0, 0) 
+		to[R, l=$R$] (3, 0)
+		to[C, l=$C$] ++(2, 0)
+		to [L, l=$L$, v<=$v_s$] ++ (0, -2)
+		-- (0, -2)
+		to [open, v=$v_e$] (0, 0);
+	\end{circuitikz}
+\end{minipage}%
+\begin{minipage}[c]{\linewidth/2}
+	\begin{enumerate}
+		\item Quel type de filtre ce circuit permet-il de réaliser ?
+		\item Déterminer sa fonction de transfert.
+		\item Déterminer les pentes des asymptotes en gain BF et HF. Tracer le diagramme de Bode asymptotique.
+		\item $v_e$ s'écrit comme somme de trois harmoniques de même amplitude, de même phase à l'origine et de fréquences respectives $f_1 = \SI{100}{Hz}$, $f_2 = \SI{1}{kHz}$ et $f_3 = \SI{100}{kHz}$. Écrire $v_e$ puis $v_s$.
+		\item Ce filtre peut-il avoir un comportement dérivateur ? Intégrateur ?
+	\end{enumerate}
+\end{minipage}
+
+\subsection{Exercice 3}
+
+\begin{minipage}[c]{\linewidth/2}
+	\begin{circuitikz}
+		%Circuit
+		\draw (0, 0) 
+			to[R, l=$R$] (2, 0)
+			to[C, l=$C$] ++(2, 0)
+			to [R, l=$R$] ++ (0, -2)
+			-- (0, -2)
+			to [open, v=$v_e$] (0, 0);
+		\draw (4, 0)
+			-- (6, 0)
+			to [C, l=$C$, v<=$v_s$] ++ (0, -2)
+			-- (4, -2)
+			;
+	\end{circuitikz}
+\end{minipage}%
+\begin{minipage}[c]{\linewidth/2}
+	On donne $R = \SI{1.0}{k\Omega}$ et $C = \SI{500}{nF}$.
+	\begin{enumerate}
+		\item Quel type de filtre ce circuit permet-il de réaliser ?
+		\item Déterminer sa fonction de transfert.
+		\item Déterminer la bande passante. Définir le facteur de qualité.
+		\item $v_e$ s'écrit comme somme de trois harmoniques de même amplitude, de même phase à l'origine et de fréquences respectives $f_1 = \SI{100}{Hz}$, $f_2 = \SI{1}{kHz}$ et $f_3 = \SI{100}{kHz}$. Écrire $v_e$ puis $v_s$.
+	\end{enumerate}
+\end{minipage}
