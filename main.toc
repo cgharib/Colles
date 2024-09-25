@@ -6,9 +6,23 @@
 \contentsline {subsection}{Exercice 2}{3}{}%
 \contentsline {subsection}{Exercice 3 : Rendement d'un montage potentiométrique}{3}{}%
 \contentsline {subsection}{Exercice 4 : Adaptation de puissance}{3}{}%
-\contentsline {chapter}{MPI}{5}{}%
-\contentsline {chapter}{MP}{7}{}%
-\contentsline {section}{Semaine 01 (16/09-20/09) }{8}{}%
+\contentsline {section}{Semaine 02 (23/09-27/09) }{4}{}%
+\contentsline {subsection}{Questions de cours}{4}{}%
+\contentsline {subsection}{Exercice 1 : Résistance de fuite d'un condensateur}{4}{}%
+\contentsline {subsection}{Exercice 2 : Étude d'un circuit RL}{5}{}%
+\contentsline {subsection}{Exercice 3 : Rendement énergétique de la charge d'un condensateur}{5}{}%
+\contentsline {chapter}{MPI}{7}{}%
+\contentsline {section}{Semaine 02 (23/09-27/09) }{8}{}%
 \contentsline {subsection}{Exercice 1}{8}{}%
 \contentsline {subsection}{Exercice 2}{9}{}%
 \contentsline {subsection}{Exercice 3}{9}{}%
+\contentsline {chapter}{MP}{11}{}%
+\contentsline {section}{Semaine 01 (16/09-20/09) }{12}{}%
+\contentsline {subsection}{Exercice 1}{12}{}%
+\contentsline {subsection}{Exercice 2}{13}{}%
+\contentsline {subsection}{Exercice 3}{13}{}%
+\contentsline {section}{Semaine 02 (23/09-27/09) }{14}{}%
+\contentsline {subsection}{Exercice 1}{14}{}%
+\contentsline {subsection}{Exercice 2}{14}{}%
+\contentsline {subsection}{Exercice 3}{14}{}%
+\contentsline {subsection}{Exercice 4}{14}{}%

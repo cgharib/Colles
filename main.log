@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.15)  18 SEP 2024 13:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.15)  25 SEP 2024 11:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -589,7 +589,9 @@ File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count316
 \l__pdf_internal_box=\box73
 )
-(./main.aux (./TeX_files/MPSI/sem01.aux) (./TeX_files/MP/sem01.aux))
+(./main.aux (./TeX_files/MPSI/sem01.aux) (./TeX_files/MPSI/sem02.aux)
+(./TeX_files/MPI/sem02.aux) (./TeX_files/MP/sem01.aux)
+(./TeX_files/MP/sem02.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -732,6 +734,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3]
+\openout2 = `./TeX_files/MPSI/sem02.aux'.
+
+ (./TeX_files/MPSI/sem02.tex
+<Images/mpsi_s02_ex02.png, id=43, 403.5075pt x 259.97125pt>
+File: Images/mpsi_s02_ex02.png Graphic file (type png)
+<use Images/mpsi_s02_ex02.png>
+Package pdftex.def Info: Images/mpsi_s02_ex02.png  used on input line 33.
+(pdftex.def)             Requested size: 195.0pt x 125.63368pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 32--46
+[]$[]$$[]$ 
+ []
+
+
+Underfull \vbox (badness 5203) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -744,7 +763,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
-] [5]
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5 <./Images/mpsi_s02_ex02.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -755,12 +783,116 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [6
 
+
+
 ] [7]
+\openout2 = `./TeX_files/MPI/sem02.aux'.
+
+ (./TeX_files/MPI/sem02.tex
+\absvshift=\dimen295
+\absvshift=\dimen296
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+[]\T1/cmr/m/n/12 Déterminer sa fonc-tion de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+[]\T1/cmr/m/n/12 Déterminer les pentes des
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 28--29
+[]$\OML/cmm/m/it/12 v[]$ \T1/cmr/m/n/12 s'écrit comme somme de
+ []
+
+\absvshift=\dimen297
+\absvshift=\dimen298
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+[]\T1/cmr/m/n/12 Déterminer sa fonc-tion de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+[]\T1/cmr/m/n/12 Déterminer les pentes des
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 51--52
+[]$\OML/cmm/m/it/12 v[]$ \T1/cmr/m/n/12 s'écrit comme somme de
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 35--55
+[]$[]$$[]$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8
+
+]
+\absvshift=\dimen299
+\absvshift=\dimen300
+
+Overfull \hbox (4.1957pt too wide) in paragraph at lines 72--73
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+[]\T1/cmr/m/n/12 Déterminer sa fonc-tion de
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 80--81
+[]$\OML/cmm/m/it/12 v[]$ \T1/cmr/m/n/12 s'écrit comme somme de
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 58--83
+[]$[]$$[]$ 
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10
+
+
+
+] [11]
 \openout2 = `./TeX_files/MP/sem01.aux'.
 
  (./TeX_files/MP/sem01.tex
-\absvshift=\dimen295
-\absvshift=\dimen296
+\absvshift=\dimen301
+\absvshift=\dimen302
 
 Underfull \hbox (badness 10000) in paragraph at lines 27--28
 []\T1/cmr/m/n/12 Déterminer sa fonc-tion de
@@ -776,8 +908,8 @@ Underfull \hbox (badness 1735) in paragraph at lines 29--30
 []$\OML/cmm/m/it/12 v[]$ \T1/cmr/m/n/12 s'écrit comme somme de
  []
 
-\absvshift=\dimen297
-\absvshift=\dimen298
+\absvshift=\dimen303
+\absvshift=\dimen304
 
 Underfull \hbox (badness 10000) in paragraph at lines 50--51
 []\T1/cmr/m/n/12 Déterminer sa fonc-tion de
@@ -810,11 +942,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8
+[12
 
 ]
-\absvshift=\dimen299
-\absvshift=\dimen300
+\absvshift=\dimen305
+\absvshift=\dimen306
 
 Overfull \hbox (4.1957pt too wide) in paragraph at lines 73--74
 [][] 
@@ -831,7 +963,7 @@ Underfull \hbox (badness 1735) in paragraph at lines 81--82
  []
 
 )
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 59--48
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 59--51
 []$[]$$[]$ 
  []
 
@@ -843,7 +975,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9]
+[13]
+\openout2 = `./TeX_files/MP/sem02.aux'.
+
+ (./TeX_files/MP/sem02.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -852,40 +987,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10
+[14
 
 
 
-] (./main.aux (./TeX_files/MPSI/sem01.aux) (./TeX_files/MP/sem01.aux))
+] (./main.aux (./TeX_files/MPSI/sem01.aux) (./TeX_files/MPSI/sem02.aux)
+(./TeX_files/MPI/sem02.aux) (./TeX_files/MP/sem01.aux)
+(./TeX_files/MP/sem02.aux))
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 37144 strings out of 474175
- 970644 string characters out of 5745668
+ 37582 strings out of 474175
+ 985940 string characters out of 5745668
  1955457 words of memory out of 5000000
- 59093 multiletter control sequences out of 15000+600000
+ 59511 multiletter control sequences out of 15000+600000
  568664 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,107p,429b,960s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,107p,499b,960s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
 sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
-local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/lo
-cal/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/loca
-l/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/
-texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/te
-xlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texl
-ive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texliv
-e/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/
-2023/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on main.pdf (14 pages, 383316 bytes).
+local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
+al/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local
+/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/t
+exlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/tex
+live/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texli
+ve/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive
+/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2
+023/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
+Output written on main.pdf (18 pages, 416378 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
+ 136 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
