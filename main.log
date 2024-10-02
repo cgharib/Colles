@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.15)  25 SEP 2024 11:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.15)  2 OCT 2024 13:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -571,57 +571,152 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 s/tikzlibrarybabel.code.tex
 File: tikzlibrarybabel.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(/usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+(/usr/local/texlive/2023/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
 
-\f@nch@headwidth=\skip55
-\f@nch@O@elh=\skip56
-\f@nch@O@erh=\skip57
-\f@nch@O@olh=\skip58
-\f@nch@O@orh=\skip59
-\f@nch@O@elf=\skip60
-\f@nch@O@erf=\skip61
-\f@nch@O@olf=\skip62
-\f@nch@O@orf=\skip63
-)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-12-11 L3 programming layer (loader) 
+
 (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count316
 \l__pdf_internal_box=\box73
+))
+(/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen292
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count317
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count318
+\leftroot@=\count319
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count320
+\DOTSCASE@=\count321
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box74
+\strutbox@=\box75
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen293
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count322
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count323
+\dotsspace@=\muskip16
+\c@parentequation=\count324
+\dspbrk@lvl=\count325
+\tag@help=\toks35
+\row@=\count326
+\column@=\count327
+\maxfields@=\count328
+\andhelp@=\toks36
+\eqnshift@=\dimen294
+\alignsep@=\dimen295
+\tagshift@=\dimen296
+\tagwidth@=\dimen297
+\totwidth@=\dimen298
+\lineht@=\dimen299
+\@envbody=\toks37
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count329
+\g__chemgreek_tmpa_int=\count330
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count331
+\__mhchem_arrow_extPgfLength_skip=\skip58
+\mhchem@minispace@tmp=\skip59
+\mhchem@minibackspace@tmp=\skip60
+\mhchem@bondwidth=\skip61
+\mhchem@bondheight=\skip62
+\mhchem@smallbondwidth@tmpA=\skip63
+\mhchem@smallbondwidth@tmpB=\skip64
+\mhchem@smallbondwidth=\skip65
+\mhchem@bondtmp@minussidebearingleft=\skip66
+\mhchem@bondtmp@minussidebearingright=\skip67
+\l__mhchem_option_version_int=\count332
+\mhchem@option@minusmathsidebearingleft=\dimen300
+\mhchem@option@minusmathsidebearingright=\dimen301
+\mhchem@option@minustextsidebearingleft=\dimen302
+\mhchem@option@minustextsidebearingright=\dimen303
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip68
+\f@nch@O@elh=\skip69
+\f@nch@O@erh=\skip70
+\f@nch@O@olh=\skip71
+\f@nch@O@orh=\skip72
+\f@nch@O@elf=\skip73
+\f@nch@O@erf=\skip74
+\f@nch@O@olf=\skip75
+\f@nch@O@orf=\skip76
 )
 (./main.aux (./TeX_files/MPSI/sem01.aux) (./TeX_files/MPSI/sem02.aux)
-(./TeX_files/MPI/sem02.aux) (./TeX_files/MP/sem01.aux)
-(./TeX_files/MP/sem02.aux))
+(./TeX_files/MPSI/sem03.aux) (./TeX_files/MPI/sem02.aux)
+(./TeX_files/MPI/sem03.aux) (./TeX_files/MP/sem01.aux)
+(./TeX_files/MP/sem02.aux) (./TeX_files/MP/sem03.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count317
-\scratchdimen=\dimen292
-\scratchbox=\box74
-\nofMPsegments=\count318
-\nofMParguments=\count319
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count320
-\MPscratchDim=\dimen293
-\MPnumerator=\count321
-\makeMPintoPDFobject=\count322
-\everyMPtoPDFconversion=\toks36
+\scratchcounter=\count333
+\scratchdimen=\dimen304
+\scratchbox=\box76
+\nofMPsegments=\count334
+\nofMParguments=\count335
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count336
+\MPscratchDim=\dimen305
+\MPnumerator=\count337
+\makeMPintoPDFobject=\count338
+\everyMPtoPDFconversion=\toks40
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -631,8 +726,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \degres on input line 29.
-LaTeX Info: Redefining \up on input line 29.
+LaTeX Info: Redefining \degres on input line 31.
+LaTeX Info: Redefining \up on input line 31.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-d
 ictionary-french.trsl
@@ -640,24 +735,16 @@ File: translations-basic-dictionary-french.trsl (french translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `french'. on input line 29.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 38.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 38.
+or `french'. on input line 31.
+
+Package chemgreek Info: Activating mapping `default' on line 31.
+
  [1
 
 
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 39.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 39.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 39.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -668,11 +755,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2
 
-] (./main.toc)
+] (./main.toc [3])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [3]
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.61858pt, for example:
@@ -681,9 +768,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
 
-[4
+[4] [1
 
-] [1
 
 ]
 \openout2 = `./TeX_files/MPSI/sem01.aux'.
@@ -699,7 +785,7 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 26--27
 [][] 
  []
 
-\absvshift=\dimen294
+\absvshift=\dimen306
 
 Overfull \hbox (17.62482pt too wide) in paragraph at lines 30--49
 []$[]$$[]$ 
@@ -721,7 +807,7 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 52--74
  []
 
 )
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 77--43
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 77--45
 []$[]$$[]$ 
  []
 
@@ -773,6 +859,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5 <./Images/mpsi_s02_ex02.png>]
+\openout2 = `./TeX_files/MPSI/sem03.aux'.
+
+ (./TeX_files/MPSI/sem03.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -785,12 +874,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
-] [7]
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8
+
+
+
+] [9]
 \openout2 = `./TeX_files/MPI/sem02.aux'.
 
  (./TeX_files/MPI/sem02.tex
-\absvshift=\dimen295
-\absvshift=\dimen296
+\absvshift=\dimen307
+\absvshift=\dimen308
 
 Underfull \hbox (badness 10000) in paragraph at lines 26--27
 []\T1/cmr/m/n/12 Déterminer sa fonc-tion de
@@ -806,8 +917,8 @@ Underfull \hbox (badness 1735) in paragraph at lines 28--29
 []$\OML/cmm/m/it/12 v[]$ \T1/cmr/m/n/12 s'écrit comme somme de
  []
 
-\absvshift=\dimen297
-\absvshift=\dimen298
+\absvshift=\dimen309
+\absvshift=\dimen310
 
 Underfull \hbox (badness 10000) in paragraph at lines 49--50
 []\T1/cmr/m/n/12 Déterminer sa fonc-tion de
@@ -840,11 +951,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8
+[10
 
 ]
-\absvshift=\dimen299
-\absvshift=\dimen300
+\absvshift=\dimen311
+\absvshift=\dimen312
 
 Overfull \hbox (4.1957pt too wide) in paragraph at lines 72--73
 [][] 
@@ -874,7 +985,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9]
+[11]
+\openout2 = `./TeX_files/MPI/sem03.aux'.
+
+ (./TeX_files/MPI/sem03.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -883,16 +997,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10
+[12
 
 
 
-] [11]
+] [13
+
+
+
+]
 \openout2 = `./TeX_files/MP/sem01.aux'.
 
  (./TeX_files/MP/sem01.tex
-\absvshift=\dimen301
-\absvshift=\dimen302
+\absvshift=\dimen313
+\absvshift=\dimen314
 
 Underfull \hbox (badness 10000) in paragraph at lines 27--28
 []\T1/cmr/m/n/12 Déterminer sa fonc-tion de
@@ -908,8 +1026,8 @@ Underfull \hbox (badness 1735) in paragraph at lines 29--30
 []$\OML/cmm/m/it/12 v[]$ \T1/cmr/m/n/12 s'écrit comme somme de
  []
 
-\absvshift=\dimen303
-\absvshift=\dimen304
+\absvshift=\dimen315
+\absvshift=\dimen316
 
 Underfull \hbox (badness 10000) in paragraph at lines 50--51
 []\T1/cmr/m/n/12 Déterminer sa fonc-tion de
@@ -942,11 +1060,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[12
+[14
 
 ]
-\absvshift=\dimen305
-\absvshift=\dimen306
+\absvshift=\dimen317
+\absvshift=\dimen318
 
 Overfull \hbox (4.1957pt too wide) in paragraph at lines 73--74
 [][] 
@@ -963,7 +1081,7 @@ Underfull \hbox (badness 1735) in paragraph at lines 81--82
  []
 
 )
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 59--51
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 59--55
 []$[]$$[]$ 
  []
 
@@ -975,7 +1093,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13]
+[15]
 \openout2 = `./TeX_files/MP/sem02.aux'.
 
  (./TeX_files/MP/sem02.tex)
@@ -987,26 +1105,56 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14
+[16
+
+
+
+]
+\openout2 = `./TeX_files/MP/sem03.aux'.
+
+ (./TeX_files/MP/sem03.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18
 
 
 
 ] (./main.aux (./TeX_files/MPSI/sem01.aux) (./TeX_files/MPSI/sem02.aux)
-(./TeX_files/MPI/sem02.aux) (./TeX_files/MP/sem01.aux)
-(./TeX_files/MP/sem02.aux))
+(./TeX_files/MPSI/sem03.aux) (./TeX_files/MPI/sem02.aux)
+(./TeX_files/MPI/sem03.aux) (./TeX_files/MP/sem01.aux)
+(./TeX_files/MP/sem02.aux) (./TeX_files/MP/sem03.aux))
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 37582 strings out of 474175
- 985940 string characters out of 5745668
- 1955457 words of memory out of 5000000
- 59511 multiletter control sequences out of 15000+600000
- 568664 words of font info for 57 fonts, out of 8000000 for 9000
+ 39278 strings out of 474175
+ 1019628 string characters out of 5745668
+ 1956457 words of memory out of 5000000
+ 61159 multiletter control sequences out of 15000+600000
+ 569789 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,107p,499b,960s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,14n,107p,499b,964s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
@@ -1020,10 +1168,10 @@ live/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texli
 ve/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive
 /2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2
 023/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on main.pdf (18 pages, 416378 bytes).
+Output written on main.pdf (22 pages, 432031 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
+ 149 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

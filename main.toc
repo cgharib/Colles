@@ -11,18 +11,29 @@
 \contentsline {subsection}{Exercice 1 : Résistance de fuite d'un condensateur}{4}{}%
 \contentsline {subsection}{Exercice 2 : Étude d'un circuit RL}{5}{}%
 \contentsline {subsection}{Exercice 3 : Rendement énergétique de la charge d'un condensateur}{5}{}%
-\contentsline {chapter}{MPI}{7}{}%
-\contentsline {section}{Semaine 02 (23/09-27/09) }{8}{}%
-\contentsline {subsection}{Exercice 1}{8}{}%
-\contentsline {subsection}{Exercice 2}{9}{}%
-\contentsline {subsection}{Exercice 3}{9}{}%
-\contentsline {chapter}{MP}{11}{}%
-\contentsline {section}{Semaine 01 (16/09-20/09) }{12}{}%
-\contentsline {subsection}{Exercice 1}{12}{}%
-\contentsline {subsection}{Exercice 2}{13}{}%
-\contentsline {subsection}{Exercice 3}{13}{}%
-\contentsline {section}{Semaine 02 (23/09-27/09) }{14}{}%
+\contentsline {section}{Semaine 03 (30/09-04/10) }{6}{}%
+\contentsline {subsection}{Questions de cours}{6}{}%
+\contentsline {subsection}{Exercice 1 : Fluoration du dioxyde d'uranium}{6}{}%
+\contentsline {subsection}{Exercice 2 : Constante d'équilibre et quotient de réaction.}{6}{}%
+\contentsline {subsection}{Exercice 3 : Utilisation du quotient de réaction.}{7}{}%
+\contentsline {chapter}{MPI}{9}{}%
+\contentsline {section}{Semaine 02 (23/09-27/09) }{10}{}%
+\contentsline {subsection}{Exercice 1}{10}{}%
+\contentsline {subsection}{Exercice 2}{11}{}%
+\contentsline {subsection}{Exercice 3}{11}{}%
+\contentsline {section}{Semaine 03 (30/09-04/10) }{12}{}%
+\contentsline {subsection}{Exercice 1 : Intégration d'un créneau par un filtre passe bande}{12}{}%
+\contentsline {chapter}{MP}{13}{}%
+\contentsline {section}{Semaine 01 (16/09-20/09) }{14}{}%
 \contentsline {subsection}{Exercice 1}{14}{}%
-\contentsline {subsection}{Exercice 2}{14}{}%
-\contentsline {subsection}{Exercice 3}{14}{}%
-\contentsline {subsection}{Exercice 4}{14}{}%
+\contentsline {subsection}{Exercice 2}{15}{}%
+\contentsline {subsection}{Exercice 3}{15}{}%
+\contentsline {section}{Semaine 02 (23/09-27/09) }{16}{}%
+\contentsline {subsection}{Exercice 1}{16}{}%
+\contentsline {subsection}{Exercice 2}{16}{}%
+\contentsline {subsection}{Exercice 3}{16}{}%
+\contentsline {subsection}{Exercice 4}{16}{}%
+\contentsline {section}{Semaine 03 (30/09-04/10) }{17}{}%
+\contentsline {subsection}{Exercice 1}{17}{}%
+\contentsline {subsection}{Exercice 2}{17}{}%
+\contentsline {subsection}{Exercice 3}{17}{}%
