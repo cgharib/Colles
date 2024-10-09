@@ -14,26 +14,40 @@
 \contentsline {section}{Semaine 03 (30/09-04/10) }{6}{}%
 \contentsline {subsection}{Questions de cours}{6}{}%
 \contentsline {subsection}{Exercice 1 : Fluoration du dioxyde d'uranium}{6}{}%
-\contentsline {subsection}{Exercice 2 : Constante d'équilibre et quotient de réaction.}{6}{}%
+\contentsline {subsection}{Exercice 2 : Constante d'équilibre et quotient de réaction.}{7}{}%
 \contentsline {subsection}{Exercice 3 : Utilisation du quotient de réaction.}{7}{}%
-\contentsline {chapter}{MPI}{9}{}%
-\contentsline {section}{Semaine 02 (23/09-27/09) }{10}{}%
-\contentsline {subsection}{Exercice 1}{10}{}%
-\contentsline {subsection}{Exercice 2}{11}{}%
-\contentsline {subsection}{Exercice 3}{11}{}%
-\contentsline {section}{Semaine 03 (30/09-04/10) }{12}{}%
-\contentsline {subsection}{Exercice 1 : Intégration d'un créneau par un filtre passe bande}{12}{}%
-\contentsline {chapter}{MP}{13}{}%
-\contentsline {section}{Semaine 01 (16/09-20/09) }{14}{}%
-\contentsline {subsection}{Exercice 1}{14}{}%
-\contentsline {subsection}{Exercice 2}{15}{}%
-\contentsline {subsection}{Exercice 3}{15}{}%
-\contentsline {section}{Semaine 02 (23/09-27/09) }{16}{}%
-\contentsline {subsection}{Exercice 1}{16}{}%
-\contentsline {subsection}{Exercice 2}{16}{}%
-\contentsline {subsection}{Exercice 3}{16}{}%
-\contentsline {subsection}{Exercice 4}{16}{}%
-\contentsline {section}{Semaine 03 (30/09-04/10) }{17}{}%
-\contentsline {subsection}{Exercice 1}{17}{}%
-\contentsline {subsection}{Exercice 2}{17}{}%
-\contentsline {subsection}{Exercice 3}{17}{}%
+\contentsline {section}{Semaine 04 (07/10-11/10) }{9}{}%
+\contentsline {subsection}{Questions de cours}{9}{}%
+\contentsline {subsection}{Exercice 1 : Réfractomètre de Pulrich}{9}{}%
+\contentsline {subsection}{Exercice 2}{9}{}%
+\contentsline {subsection}{Exercice 3 : Détection de pluie sur un pare-brise}{10}{}%
+\contentsline {chapter}{MPI}{11}{}%
+\contentsline {section}{Semaine 02 (23/09-27/09) }{12}{}%
+\contentsline {subsection}{Exercice 1}{12}{}%
+\contentsline {subsection}{Exercice 2}{13}{}%
+\contentsline {subsection}{Exercice 3}{13}{}%
+\contentsline {section}{Semaine 03 (30/09-04/10) }{14}{}%
+\contentsline {subsection}{Exercice 1 : Intégration d'un créneau par un filtre passe bande}{14}{}%
+\contentsline {subsection}{Exercice 2 : Shannon comme au cinéma}{14}{}%
+\contentsline {section}{Semaine 04 (07/10-11/10) }{15}{}%
+\contentsline {subsection}{Exercice 1 : Système à deux ressorts}{15}{}%
+\contentsline {subsection}{Exercice 2 : Frottement et facteur de qualité}{15}{}%
+\contentsline {subsection}{Exercice 3 : Mouvement autour d'une position d'équilibre}{16}{}%
+\contentsline {chapter}{MP}{17}{}%
+\contentsline {section}{Semaine 01 (16/09-20/09) }{18}{}%
+\contentsline {subsection}{Exercice 1}{18}{}%
+\contentsline {subsection}{Exercice 2}{19}{}%
+\contentsline {subsection}{Exercice 3}{19}{}%
+\contentsline {section}{Semaine 02 (23/09-27/09) }{20}{}%
+\contentsline {subsection}{Exercice 1}{20}{}%
+\contentsline {subsection}{Exercice 2}{20}{}%
+\contentsline {subsection}{Exercice 3}{20}{}%
+\contentsline {subsection}{Exercice 4}{20}{}%
+\contentsline {section}{Semaine 03 (30/09-04/10) }{21}{}%
+\contentsline {subsection}{Exercice 1}{21}{}%
+\contentsline {subsection}{Exercice 2}{21}{}%
+\contentsline {subsection}{Exercice 3}{21}{}%
+\contentsline {section}{Semaine 04 (07/10-11/10) }{22}{}%
+\contentsline {subsection}{Exercice 1 : Pendule pesant dans une voiture accélérée}{22}{}%
+\contentsline {subsection}{Exercice 2 : Limite de Roche}{22}{}%
+\contentsline {subsection}{Exercice 3 : Usure d'une ligne de TGV}{23}{}%
