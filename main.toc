@@ -32,53 +32,65 @@
 \contentsline {subsection}{Exercice 1 : Décomposition de l'azométhane en phase gazeuse}{14}{}%
 \contentsline {subsection}{Exercice 2 : Temps de demi-réaction}{14}{}%
 \contentsline {subsection}{Exercice 3 : Dismutation des ions hypochlorites}{15}{}%
-\contentsline {chapter}{MPI}{17}{}%
-\contentsline {section}{Semaine 02 (23/09-27/09) }{18}{}%
-\contentsline {subsection}{Exercice 1}{18}{}%
-\contentsline {subsection}{Exercice 2}{19}{}%
-\contentsline {subsection}{Exercice 3}{19}{}%
-\contentsline {section}{Semaine 03 (30/09-04/10) }{20}{}%
-\contentsline {subsection}{Exercice 1 : Intégration d'un créneau par un filtre passe bande}{20}{}%
-\contentsline {subsection}{Exercice 2 : Shannon comme au cinéma}{20}{}%
-\contentsline {section}{Semaine 04 (07/10-11/10) }{21}{}%
-\contentsline {subsection}{Exercice 1 : Système à deux ressorts}{21}{}%
-\contentsline {subsection}{Exercice 2 : Frottement et facteur de qualité}{21}{}%
-\contentsline {subsection}{Exercice 3 : Mouvement autour d'une position d'équilibre}{22}{}%
-\contentsline {section}{Semaine 04 (14/10-18/10) }{23}{}%
-\contentsline {subsection}{Exercice 1 : Force en $1/r^4$}{23}{}%
-\contentsline {subsection}{Exercice 2 : Satellite géostationnaire}{23}{}%
-\contentsline {subsection}{Exercice 3 : Chute d'un satellite dans l'atmosphère}{23}{}%
-\contentsline {subsection}{Exercice 4 : Pendule pesant dans une voiture accélérée}{24}{}%
-\contentsline {subsection}{Exercice 5 : Limite de Roche}{24}{}%
-\contentsline {subsection}{Exercice 6 : Usure d'une ligne de TGV}{25}{}%
-\contentsline {subsection}{Exercice 7 : Impesanteur}{25}{}%
-\contentsline {section}{Semaine 06 (04/11-08/11) }{26}{}%
-\contentsline {subsection}{Exercice 1 : Glissement d'une caisse dans un camion}{26}{}%
-\contentsline {subsection}{Exercice 2 : Cube sur un plan incliné}{26}{}%
-\contentsline {subsection}{Exercice 3 : Glissement et liaison avec une corde}{26}{}%
-\contentsline {chapter}{MP}{27}{}%
-\contentsline {section}{Semaine 01 (16/09-20/09) }{28}{}%
-\contentsline {subsection}{Exercice 1}{28}{}%
-\contentsline {subsection}{Exercice 2}{29}{}%
-\contentsline {subsection}{Exercice 3}{29}{}%
-\contentsline {section}{Semaine 02 (23/09-27/09) }{30}{}%
-\contentsline {subsection}{Exercice 1}{30}{}%
-\contentsline {subsection}{Exercice 2}{30}{}%
-\contentsline {subsection}{Exercice 3}{30}{}%
-\contentsline {subsection}{Exercice 4}{30}{}%
-\contentsline {section}{Semaine 03 (30/09-04/10) }{31}{}%
-\contentsline {subsection}{Exercice 1}{31}{}%
-\contentsline {subsection}{Exercice 2}{31}{}%
-\contentsline {subsection}{Exercice 3}{31}{}%
-\contentsline {section}{Semaine 04 (07/10-11/10) }{32}{}%
-\contentsline {subsection}{Exercice 1 : Pendule pesant dans une voiture accélérée}{32}{}%
-\contentsline {subsection}{Exercice 2 : Limite de Roche}{32}{}%
-\contentsline {subsection}{Exercice 3 : Usure d'une ligne de TGV}{33}{}%
-\contentsline {section}{Semaine 05 (14/10-18/10) }{34}{}%
-\contentsline {subsection}{Exercice 1 : Glissement d'une caisse dans un camion}{34}{}%
-\contentsline {subsection}{Exercice 2 : Cube sur un plan incliné}{34}{}%
-\contentsline {subsection}{Exercice 3 : Glissement et liaison avec une corde}{34}{}%
-\contentsline {section}{Semaine 06 (04/11-08/11) }{35}{}%
-\contentsline {subsection}{Exercice 1 : Condensateur cylindrique}{35}{}%
-\contentsline {subsection}{Exercice 2 : Condensateur sphérique}{35}{}%
-\contentsline {subsection}{Exercice 3 : Rayon classique de l'électron}{36}{}%
+\contentsline {section}{Semaine 07 (11/11-15/11) }{17}{}%
+\contentsline {subsection}{Questions de cours}{17}{}%
+\contentsline {chapter}{MPI}{19}{}%
+\contentsline {section}{Semaine 02 (23/09-27/09) }{20}{}%
+\contentsline {subsection}{Exercice 1}{20}{}%
+\contentsline {subsection}{Exercice 2}{21}{}%
+\contentsline {subsection}{Exercice 3}{21}{}%
+\contentsline {section}{Semaine 03 (30/09-04/10) }{22}{}%
+\contentsline {subsection}{Exercice 1 : Intégration d'un créneau par un filtre passe bande}{22}{}%
+\contentsline {subsection}{Exercice 2 : Shannon comme au cinéma}{22}{}%
+\contentsline {section}{Semaine 04 (07/10-11/10) }{23}{}%
+\contentsline {subsection}{Exercice 1 : Système à deux ressorts}{23}{}%
+\contentsline {subsection}{Exercice 2 : Frottement et facteur de qualité}{23}{}%
+\contentsline {subsection}{Exercice 3 : Mouvement autour d'une position d'équilibre}{24}{}%
+\contentsline {section}{Semaine 04 (14/10-18/10) }{25}{}%
+\contentsline {subsection}{Exercice 1 : Force en $1/r^4$}{25}{}%
+\contentsline {subsection}{Exercice 2 : Satellite géostationnaire}{25}{}%
+\contentsline {subsection}{Exercice 3 : Chute d'un satellite dans l'atmosphère}{25}{}%
+\contentsline {subsection}{Exercice 4 : Pendule pesant dans une voiture accélérée}{26}{}%
+\contentsline {subsection}{Exercice 5 : Limite de Roche}{26}{}%
+\contentsline {subsection}{Exercice 6 : Usure d'une ligne de TGV}{27}{}%
+\contentsline {subsection}{Exercice 7 : Impesanteur}{27}{}%
+\contentsline {section}{Semaine 06 (04/11-08/11) }{28}{}%
+\contentsline {subsection}{Exercice 1 : Glissement d'une caisse dans un camion}{28}{}%
+\contentsline {subsection}{Exercice 2 : Cube sur un plan incliné}{28}{}%
+\contentsline {subsection}{Exercice 3 : Glissement et liaison avec une corde}{28}{}%
+\contentsline {section}{Semaine 07 (11/11-15/11) }{29}{}%
+\contentsline {subsection}{Questions de cours :}{29}{}%
+\contentsline {subsection}{Exercice 1 : Fluoration du dioxyde d'uranium}{29}{}%
+\contentsline {subsection}{Exercice 2 : Constante d'équilibre et quotient de réaction.}{29}{}%
+\contentsline {subsection}{Exercice 3 : Utilisation du quotient de réaction.}{30}{}%
+\contentsline {chapter}{MP}{31}{}%
+\contentsline {section}{Semaine 01 (16/09-20/09) }{32}{}%
+\contentsline {subsection}{Exercice 1}{32}{}%
+\contentsline {subsection}{Exercice 2}{33}{}%
+\contentsline {subsection}{Exercice 3}{33}{}%
+\contentsline {section}{Semaine 02 (23/09-27/09) }{34}{}%
+\contentsline {subsection}{Exercice 1}{34}{}%
+\contentsline {subsection}{Exercice 2}{34}{}%
+\contentsline {subsection}{Exercice 3}{34}{}%
+\contentsline {subsection}{Exercice 4}{34}{}%
+\contentsline {section}{Semaine 03 (30/09-04/10) }{35}{}%
+\contentsline {subsection}{Exercice 1}{35}{}%
+\contentsline {subsection}{Exercice 2}{35}{}%
+\contentsline {subsection}{Exercice 3}{35}{}%
+\contentsline {section}{Semaine 04 (07/10-11/10) }{36}{}%
+\contentsline {subsection}{Exercice 1 : Pendule pesant dans une voiture accélérée}{36}{}%
+\contentsline {subsection}{Exercice 2 : Limite de Roche}{36}{}%
+\contentsline {subsection}{Exercice 3 : Usure d'une ligne de TGV}{37}{}%
+\contentsline {section}{Semaine 05 (14/10-18/10) }{38}{}%
+\contentsline {subsection}{Exercice 1 : Glissement d'une caisse dans un camion}{38}{}%
+\contentsline {subsection}{Exercice 2 : Cube sur un plan incliné}{38}{}%
+\contentsline {subsection}{Exercice 3 : Glissement et liaison avec une corde}{38}{}%
+\contentsline {section}{Semaine 06 (04/11-08/11) }{39}{}%
+\contentsline {subsection}{Exercice 1 : Condensateur cylindrique}{39}{}%
+\contentsline {subsection}{Exercice 2 : Condensateur sphérique}{39}{}%
+\contentsline {subsection}{Exercice 3 : Rayon classique de l'électron}{40}{}%
+\contentsline {section}{Semaine 07 (11/11-15/11) }{41}{}%
+\contentsline {subsection}{Questions de cours :}{41}{}%
+\contentsline {subsection}{Exercice 1 : Décomposition de l'azométhane en phase gazeuse}{41}{}%
+\contentsline {subsection}{Exercice 2 : Temps de demi-réaction}{41}{}%
+\contentsline {subsection}{Exercice 3 : Dismutation des ions hypochlorites}{42}{}%
