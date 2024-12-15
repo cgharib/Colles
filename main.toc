@@ -117,4 +117,4 @@
 \contentsline {subsection}{Exercice 1 : Double rails de Laplace}{54}{}%
 \contentsline {subsection}{Exercice 2 : Inductances propres et mutuelles}{54}{}%
 \contentsline {subsection}{Exercice 3 : Induction par un aimant mobile}{55}{}%
-\contentsline {subsection}{Exercice 4 : Mesure d'une inductance mutuelle par levée de dégénérescence}{55}{}%
+\contentsline {subsection}{Exercice 4 : Mesure d'une inductance mutuelle par battements}{55}{}%
