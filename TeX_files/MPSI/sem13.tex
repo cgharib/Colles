@@ -1,0 +1,91 @@
+\section{Semaine 13 (06/01-10/01) }
+
+
+\e{Notions abordées :}
+\begin{itemize}
+	\item Structure des entités chimiques (cf semaine précédente).
+	\item Cinématique du point matériel (cf semaine précédente).
+	\item Dynamique du point matériel.
+\end{itemize}
+
+\subsection{Questions de cours}
+
+\begin{enumerate}
+	\item Définir un référentiel. Définir un référentiel galiléen. Donner des exemples de référentiels galiléens ou non galiléens.
+	\item Donner les trois lois de Newton.
+	\item Déterminer l'équation différentielle des oscillations d'un pendule simple.
+\end{enumerate}
+
+\subsection{Exercice 1 : Descente et chute d'un skieur}
+
+Un skieur descend une piste faisant un angle $\alpha$ avec l’horizontale. On suppose une force de frottement de l’air $\vec{F}$ de norme $\lambda ||\vec{v}||$. On note $\vec{T}$ et $\vec{N}$ les composantes de la réaction de la neige sur les skis et $f$ le coefficient de frottement. On rappelle que s'il y a glissement, on a $||\vec{T}|| = f ||\vec{N}||$.
+
+\begin{enumerate}
+	\item Exprimer $T$ et $N$ en fonction des paramètres du problème.
+	\item Établir l’équation différentielle en $v(t)$, la vitesse du skieur.
+	\item Montrer que le skieur atteint une vitesse limite $v_L$. L'exprimer en fonction de $m$, $\lambda$, $f$, $g$ et $\alpha$. A.N. $\lambda = \SI{1.0}{\newton \second \per \meter}$, $f = 0.9$, $g = \SI{10}{\meter\per\second\squared}$, $m = \SI{80}{kg}$ et $\alpha = \SI{45}{\degree}$.
+	\item Calculer la vitesse $v(t)$ et la position $x(t)$ du skieur en fonction de $v_L$, $\lambda$ et $m$.
+	\item Calculer l’instant où le skieur atteint une vitesse $v_L/2$.
+	\item Il tombe et à partir de ce moment-là, on néglige la résistance de l’air mais le coefficient de frottement est multiplié par $10$. Déterminer la distance parcourue avant de s’arrêter.
+\end{enumerate}
+
+\e{Réponses :}
+\begin{enumerate}
+	\item -
+	\item -
+	\item $v_L = \SI{57}{\meter\per\second}$
+	\item -
+	\item $\SI{55}{s}$
+	\item $\SI{7.3}{\meter}$
+\end{enumerate}
+
+\subsection{Exercice 2 : Un tour en traîneau}
+
+Un traîneau tiré par des chiens se déplaçant sur un sol horizontal est assimilé à un point matériel de masse $M = \SI{5.0e2}{kg}$. La réaction du support est $\vec{R} = \vec{T}+\vec{N}$. $\vec{N}$ est la composante normale à la surface. $\vec{T}$ est la composante tangentielle. On rappelle que 
+\begin{itemize}
+	\item le traîneau est immobile tant que $||\vec{T}|| < \mu_s ||\vec{N}||$,
+	\item s'il y a glissement, $||\vec{T}|| = \mu_d ||\vec{N}||$.
+\end{itemize}
+avec $\mu_d = \SI{5.0e-2}{}$  et $\mu_s = \SI{8.0e-2}{}$.
+
+On note $\vec{F}$ la force de traction exercée par les chiens sur le traîneau et on admet $||\vec{F}|| = F = F_0 - \beta ||\vec{v}||$ avec $F_0, \beta > 0$.
+
+\begin{enumerate}
+	\item Exprimer la valeur minimale de $F_0$ qui permet le démarrage du traîneau. Application numérique. Commentaire.
+	\item Le traîneau est en mouvement rectiligne. Déterminer l'équation différentielle sur la vitesse. On définira un temps caractéristique $\tau$.
+	\item Exprimer la vitesse limite $v_L$ atteinte par le traîneau en fonction des paramètres du problème.
+	\item Déterminer $v(t)$. Tracer son allure. Faire figurer le temps $\tau$.
+	\item $v_L$ est atteinte à $5\%$ près au bout d'un temps $t_1 = \SI{5.0}{s}$. Exprimer $\beta$ en fonction de $M$ et $t_1$. Application numérique.
+	\item On donne $v_L = \SI{3.0}{\meter\per\second}$. En déduire $F_0$. Commentaire.
+	\item Désormais à vitesse constante $v_L$, le traîneau aborde une courbe assimilée à un virage circulaire de rayon $R$ et de centre $O$. Soit $\alpha$ l'angle entre $\vec{F}$ et $\vec{v}$ Déterminer la norme $F$ de la force exercée par les chiens, ainsi que $\tan{\alpha}$ en fonction de $v_L$, $R$, $\mu_d$, $g$ et $M$, afin de maintenir cette trajectoire circulaire.
+\end{enumerate}
+
+\e{Réponses :}
+\begin{enumerate}
+	\item $F_{0, min} = \SI{392}{N}$
+	\item -
+	\item -
+	\item -
+	\item $\beta = \SI{300}{kg\per\second}$
+	\item $F_0 = \SI{1.1e3}{N}$
+	\item $\tan\alpha = \frac{v_L^2}{R \mu_d g}$ et $F = M\sqrt{ \left(\frac{v_L^2}{R}\right)^2 + (\mu_d g)^2}$
+\end{enumerate}
+
+\subsection{Exercice 3 : Oscillations amorties d'un plateau}
+
+Une boule de pâte à modeler de masse $m = \SI{250}{g}$ tombe en chute libre d'une hauteur $h_0 = \SI{40}{cm}$ sur un plateau immobile, de masse négligeable et supporté par un ressort vertical. On considère qu'au moment du contact il n'y a pas de perte d'énergie cinétique, c'est-à-dire que la boule à la même vitesse juste avant le contact, et juste après lorsqu'elle est solidaire du plateau et se met à osciller avec lui.
+
+L'origine des altitudes est prise à la position initiale du plateau.
+
+\begin{enumerate}
+	\item Sachant que le ressort a pour raideur $k = \SI{500}{N\per\meter}$, déterminer la hauteur $h_1$ dont s'affaisse le plateau. Quelle est la hauteur maximale $h_2$ atteinte par la boule lors des oscillations ? Commentaire.
+	\item En réalité, les oscillations sont amorties et le système finit par s'immobiliser. Calculer la hauteur à l'équilibre $h_e$.
+	\item On suppose que le frottement peut être modélisée par une force $\vec{F}$ de norme $||\vec{F}|| = \lambda ||\vec{v}||$. Le plateau s'immobilise (à $5\%$ près et à altitude $h_e$) au bout de $t = \SI{10}{s}$. Déterminer l'équation horaire de la trajectoire ainsi que la valeur de $\lambda$.
+\end{enumerate}
+
+\subsection{Exercice 4 : Pendule contrarié}
+
+Une masse ponctuelle $m$ est accrochée à l'aide d'un fil sans masse de longueur $l$ au point fixe $O$. On la lâche avec une vitesse nulle et avec un angle $\theta_0$. En dessous de $O$, à une distance $h<l$, est fixé un clou, de section négligeable. On suppose que $m$ a la même vitesse juste avant et juste après le contact du fil en $A$.
+
+À quelle condition sur $\theta_0$, la masse fait elle un tour entier autour de $A$, fil tendu ? 
+
