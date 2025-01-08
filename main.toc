@@ -106,6 +106,9 @@
 \contentsline {subsection}{Exercice 1 : Interférences sur une goutte}{50}{}%
 \contentsline {subsection}{Exercice 2 : Mesure de l'épaisseur d'une lame}{50}{}%
 \contentsline {subsection}{Exercice 3 : Mesure de l'indice de l'air}{51}{}%
+\contentsline {section}{Semaine 12 (06/01 - 10/01)}{52}{}%
+\contentsline {subsection}{Questions de cours :}{52}{}%
+\contentsline {subsection}{Exercices}{52}{}%
 \contentsline {chapter}{MP}{53}{}%
 \contentsline {section}{Semaine 01 (16/09-20/09) }{54}{}%
 \contentsline {subsection}{Exercice 1}{54}{}%
