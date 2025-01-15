@@ -1,0 +1,80 @@
+\section{Semaine 14 (13/01-17/01) }
+
+
+\e{Notions abordées :}
+\begin{itemize}
+	\item Dynamique du point matériel (cf. semaine précédente).
+	\item Travail et énergie.
+\end{itemize}
+
+\subsection{Questions de cours}
+
+\begin{enumerate}
+	\item Démontrer le théorème de la puissance cinétique.
+	\item Définir une force conservative. Calculer l'énergie potentielle d'un ressort.
+	\item Comment l'énergie potentielle détermine-t-elle les positions d'équilibre et leur stabilité ?
+\end{enumerate}
+
+\subsection{Exercice 1 : Le sport fait-il maigrir ?}
+
+On considère un cycliste assimilé à un point matériel de masse $m=\SI{90}{kg}$ montant une côte modélisée par un segment $OA$ incliné d'un angle $\alpha$. Le dénivelé entre $O$ et $A$ est noté $h = \SI{50}{m}$ et la distance parcourue par le vélo dans la côte $L=\SI{1000}{m}$.
+
+On note $g=\SI{9.8}{\meter\per\second\squared}$ l'accélération de pesanteur.
+
+Les frottements de l'air sont modélisés par une force $\overrightarrow{f_air} = -\lambda ||\vec{v}|| \vec{v}$ avec $\lambda = \SI{0.21}{SI}$.
+
+Le cycliste subit également une force de frottement solide s'opposant à son mouvement. On note sa composante tangentielle $\vec{T}$, sa composante normale $\vec{N}$. On rappelle que $||\vec{T}|| = f ||\vec{N}||$ avec $f = \SI{8.0e-3}{}$.
+
+On note $\vec{F}$ la force motrice que le cycliste déploie en pédalant pour faire monter le vélo dans la direction de la pente.
+
+Le cycliste monte la côte à vitesse constante.
+
+\begin{enumerate}
+	\item Quelle est l'unité de $\lambda$ ?
+	\item Déterminer $\alpha$.
+	\item Faire un schéma en faisant figurer les différentes forces.
+	\item Déterminer la valeur de la force motrice en fonction de la vitesse. Application numérique pour une vitesse $v_1 = \SI{15}{\kilo\meter\per\hour}$.
+	\item En déduire la puissance $P_{\textrm{montee}}$ développée par la force motrice dans cette montée. Sachant que le rendement mécanique des muscles du corps humain n'est que de l'ordre de $\eta = 23\%$, déterminer la puissance effectivement fournie par le cycliste. 
+	
+	Dans la suite, on souhaite retrouver ce résultat par une méthode purement énergétique.
+	\item Exprimer l'énergie potentielle de pesanteur $E_p$. En déduire la variation d'énergie mécanique $\Delta E_m$ entre le début et la fin de la montée effectuée à vitesse constante.
+	\item Calculer le travail de la force de frottement solide $\vec{T}$. Que vaut le travail de la composante normale ? Exprimer le travail des frottements de l'air.
+	\item En déduire le travail développé par la force motrice. Application numérique. Quelle est l'énergie dépensée par le cycliste, en prenant compte le rendement musculaire $\eta$ ? En déduire à nouveau la puissance fournie par le cycliste.
+	\item Sachant qu'une calorie vaut $\SI{4.18}{J}$ et que la consommation de $\SI{100}{g}$ de sucre fournit une énergie de $\SI{400}{kcal}$, estimer la masse de sucre à ingérer pour fournir cet effort durant le temps $t_1$. Sachant que $\SI{100}{g}$ de lipides fournissent $\SI{900}{kcal}$ au corps humain, quelle est la masse maximale de graisse brûlée lors de cette montée ?
+\end{enumerate}
+
+\e{Réponse :} $\SI{14}{g}$ de sucre ou $\SI{6.3}{g}$ de graisse.
+
+\subsection{Exercice 2 : Molécule diatomique}
+
+On considère une molécule diatomique formée de deux atomes $M_1$ et $M_2$ ponctuels, partiellement ionisés et de charges respectives $q_1 = +\delta e$ et $q_2 = -\delta e$.
+
+On suppose $M_1$ immobile dans un référentiel galiléen, à l'origine d'un repère cartésien, et l'étude concerne le mouvement de $M_2$ selon l'axe $(Ox)$.
+
+L'énergie potentielle de $M_2$ est bien représentée par $$E_p(x) = -\frac{\delta^2 e^2}{4\pi\epsilon_0 x} + \frac{A}{x^9},$$ avec $A$ constante positive.
+
+\begin{enumerate}
+	\item Indiquer si chacun des termes de l'énergie potentielle correspond à une force attractive ou répulsive. Donner une signification physique de ces termes.
+	\item Tracer l'allure de $E_p(x)$.
+	\item Donner la valeur $x_e$ de la position à l'équilibre. L'équilibre est-il stable ?
+	\item En s'intéressant aux petites oscillations autour de la position d'équilibre, déterminer la fréquence de vibration de la molécule en fonction de $\delta e$, $\epsilon_0$, $x_e$ et $m$.
+\end{enumerate}
+
+\subsection{Exercice 3 : Bifurcation mécanique}
+
+On s'intéresse à une bifurcation, c'est-à-dire une modification du nombre de positions d'équilibre et de leur stabilité, en fonction de la variation d'un paramètre expérimental.
+
+Le système considéré est constitué d'un point matériel $M$ de masse $m$. Il est astreint à se déplacer selon un axe horizontal $(Ox)$ est est fixé à l'extrémité d'un ressort $(k, l_0)$. L'autre extremité $R$ du ressort est fixée à une altitude $l$ par rapport à l'origine $O$.
+
+On posera $\omega_0 = \sqrt{\frac{k}{m}}$.
+
+\begin{enumerate}
+	\item Faire un schéma précis du montage.
+	\item Qualitativement, déterminer le nombre de positions d'équilibre dans les cas $l > l_0$ et $l < l_0$.
+	\item On se place à $l$ quelconque. Déterminer l'expression de l'énergie potentielle du système à partir du calcul du travail élémentaire des forces.
+	\item Retrouver ce résultat en explicitant l'énergie potentielle élastique associée au ressort.
+	\item Déterminer les expressions des positions d'équilibre en distinguant les cas $l>l_0$ et $l<l_0$.
+	\item Pour chacune des positions d'équilibre trouvée, étudier sa stabilité.
+	\item Tracer sur un même graphe les positions d'équilibre en fonction de $l$ en précisant leur stabilité. Justifier le nom de bifurcation fourche donné à cette situation.
+	\item On dit également qu'il s'agit d'une bifurcation à brisure de symétrie. Justifier cette expression. 
+\end{enumerate}
