@@ -1,0 +1,64 @@
+\section{Semaine 15 (20/01-24/01) }
+
+\e{Notions abordées :}
+\begin{itemize}
+	\item Ondes électromagnétiques dans le vide.
+	\item Ondes électromagnétiques dans les milieux.
+	\item Effet de peau.
+\end{itemize}
+
+\subsection{Exercice 1 : Chauffage d'un métal par le soleil}
+
+Un métal, modélisé par un conducteur ohmique non chargé, de conductivité $\gamma = \SI{38}{\mega S\per\meter}$ occupe le demi-espace $z \geq 0$. 
+
+\begin{enumerate}
+	\item Écrire les équations de Maxwell dans le métal.
+	\item On s'intéresse à des ondes électromagnétiques de fréquences inférieures ou égales à celles du visible. Par une analyse d'ordres de grandeur, montrer que l'on peut négliger le courant de déplacement dans l'équation de Maxwell-Ampère.
+	\item En déduire l'équation de propagation des ondes électromagnétiques dans un conducteur.
+	\item Établir l'équation de dispersion. En déduire l'épaisseur de peau $\delta$ en fonction de $\omega$.
+	\item Écrire, en notation complexe, le champ électrique dans le conducteur pour une onde polarisée selon $\vec{e_x}$, se propageant selon $e_z$ d'amplitude $E_0$ et de pulsation $\omega$.
+	\item Exprimer le champ magnétique associé à cette onde.
+	\item Déterminer la puissance volumique dissipée par effet Joule dans le conducteur. Calculer sa valeur moyenne. 
+	\item En déduire la puissance totale dissipée dans une portion $\mathcal{V} = [0, a]\times[0, a]\times[0, +\infty[$ de conducteur. 
+	\item Pourquoi dit-on que ce sont les infrarouges qui font chauffer une carrosserie de voiture exposée au soleil ?
+\end{enumerate}
+
+\subsection{Exercice 2 : Ondes électromagnétiques dans un diélectrique}
+
+Dans un milieu diélectrique, les équations de Maxwell sont identiques à celles dans le vide, à condition de remplacer $\epsilon_0$ par $\epsilon_0 \epsilon_r$ avec $\epsilon_r > 1$ la permittivité diélectrique relative du milieu.
+
+\begin{enumerate}
+	\item Écrire les équations de Maxwell dans un diélectrique non chargé.
+	\item Déterminer l'équation de propagation d'une onde électromagnétique dans un milieu diélectrique.
+	\item Déterminer l'équation de dispersion.
+	\item Exprimer les vitesses de phase et de groupe. 
+	\item En déduire l'expression de l'indice de réfraction en fonction de $\epsilon_r$.
+	
+	En fait, un modèle microscopique (électron élastiquement lié) donne une permittivité relative complexe $$\epsilon_r = 1 + \frac{\omega_p^2}{\omega_0^2 - \omega^2 + i \Gamma \omega}$$
+	
+	\item Exprimer l'indice complexe $\underline{n}$ dans le cas $\epsilon_r-1 \ll 1$. On définira sa partie réelle $n'$ (indice dispersif) et sa partie imaginaire $n''$ (indice d'absorption). Tracer $n'$ et $n''$ en fonction de $\omega$.
+	\item En écrivant le champ électrique pour une onde électromagnétique plane et harmonique, montrer qu'il y a absorption et dispersion et justifier les noms des parties réelle et imaginaire de l'indice.
+\end{enumerate}
+
+\subsection{Exercice 3 : Équation de Klein-Gordon et masse du photon}
+
+\begin{enumerate}
+	\item Rappeler l'équation de propagation des ondes électromagnétiques dans le vide.
+	
+	Dans le cadre de la théorie électromagnétique étendue au cas d'un photon de masse non nulle, l'équation de propagation du champ électrique devient $$\Delta \vec{E} - \frac{1}{c^2} \frac{\partial^2 \vec{E}}{\partial t^2} = \eta^2 \vec{E}$$
+
+	\item Quelle est l'unité de $\eta$ ?
+	\item Déterminer la relation de dispersion.
+	\item Exprimer les vitesses de phase et de groupe en fonction de $c$, $\omega$ et $\eta$. Les tracer. Commentaires ?
+	\item Rappeler les expressions de l'énergie $E$ et de la quantité de mouvement $\vec{p}$ d'un photon.
+	\item Sachant que pour une particule relativiste de masse $m$, on a $E^2 = p^2 c^2 + m^2 c^4$, exprimer la masse du photon en fonction de $\eta$, $\hbar$ et $c$.
+	
+	Deux photons de longueurs d'ondes $\lambda_1$ et $\lambda_2$ sont émis au même instant par une source ponctuelle située à une distance $L$. On supposera $\eta^2 \lambda_{1, 2}^2 \ll 1$.
+	
+	\item Exprimer la différence $\delta t$ des temps de réception des deux signaux.
+	
+	\item L'observation de certaines étoiles doubles donne $\delta t < \SI{1e-3}{s}$ pour $\lambda_1 = \SI{0.4}{\micro\meter}$, $\lambda_2 = \SI{0.8}{\micro\meter}$ et $L = \SI{1e3}{\textrm{années lumières}}$. En déduire une limite supérieure pour la masse du photon. Commentaire.
+	
+\end{enumerate}
+
+
