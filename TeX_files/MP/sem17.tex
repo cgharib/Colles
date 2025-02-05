@@ -1,0 +1,77 @@
+\section{Semaine 17 (03/02-07/02) }
+
+\e{Notions abordées :}
+\begin{itemize}
+	\item Réflexion sur un conducteur parfait (cf. semaine précédente).
+	\item Rayonnement dipolaire électrique.
+	\item Thermodynamique de MPSI.
+	\item Systèmes thermodynamiques en écoulement.
+\end{itemize}
+
+
+\subsection{Exercice 1 : Modèle planétaire de l'atome}
+
+On considère un électron en mouvement circulaire uniforme de rayon $r_0 = \SI{1e-10}{m}$ à la vitesse angulaire $\omega$ autour d'un proton immobile. Soit $\omega$ la pulsation de ce mouvement de rotation.
+
+\begin{enumerate}
+	\item Exprimer $\omega$ en fonction de $e$, $\epsilon_0$, $m_e$ et $r_0$.
+	\item Déterminer le dipôle électrique formé par ce système. Montrer qu'il s'agit d'une superposition de deux dipôles oscillants perpendiculaires. Déterminer leur amplitude $P_0$. Application numérique.
+	\item Exprimer l'énergie mécanique du système en fonction de $r$, $\epsilon_0$ et $r$.
+	\item Rappeler, ou retrouver en partie, les expressions du champ électromagnétique rayonné par un dipôle oscillant.
+	\item En déduire l'expression du vecteur de Poynting. Calculer sa valeur moyenne en fonction de $P_0$, $\mu_0$, $\theta$, $\omega$, $r$ et $c$.
+	\item En déduire l'énergie rayonnée par unit é de temps par l'électron.
+	\item Justifier qualitativement que l'électron doit s'écraser sur le noyau. 
+	\item Soit $r(t)$ le rayon de la trajectoire de l'électron Par un bilan d'énergie, déterminer l'équation différentielle sur $r(t)$.  
+	\item En déduire la durée de vie de l'atome d'hydrogène dans ce modèle. Application numérique. Commentaire.
+\end{enumerate}
+
+\subsection{Exercice 2 : Propagation guidée entre deux plans}
+
+Deux plans infinis conducteurs parfaits délimitent une cavité vide entre $z=0$ et $z=b$. 
+
+\begin{enumerate}
+	\item Rappeler l'équation de propagation du champ électromagnétique dans la cavité.
+	\item Justifier que, contrairement à ce qu'on fait d'habitude, on ne peut pas chercher une solution sous la forme d'une OPPH.
+	
+	On cherche une solution de l'équation sous la forme $$\vec{E}(x, z, t) = \beta(z)\vec{u_y}\cos(\omega t - k x)$$.
+	
+	\item Déterminer l'équation différentielle vérifiée par $\beta$. En donner la solution générale.
+	\item Montrer que l'onde ne peut exister que si $\omega > kc$. Commenter en relation avec la relation de dispersion habituelle.
+	\item Déterminer complètement $\beta(z)$.
+	\item Déterminer la relation de dispersion. 
+	\item En déduire qu'il existe une pulsation minimale pour qu'une onde électromagnétique se propage dans le guide.
+\end{enumerate}
+
+\e{Réponse :} $\vec{k}^2 = \frac{\omega^2}{c^2} - \frac{n^2 \pi^2}{b^2}$
+
+\subsection{Exercice 3 : Lois de Descartes sur la réflexion et la réfraction}
+
+L'objectif de cet exercice est de redémontrer les lois de Descartes à l'interface entre deux diélectriques.
+
+On rappelle que dans un diélectrique, tout se passe comme dans le vide, à condition de remplacer $\epsilon_0$ par $\epsilon = \epsilon_0 \epsilon_r$.
+
+On considère donc deux diélectriques accolés. Le milieu $1$ de permittivité $epsilon_1$ occupe le demi-espace $z<0$. Le milieu $2$ de permittivité $epsilon_2$ occupe le demi-espace $z>0$.
+
+On considère également une OPPH électromagnétique incidente $(\vec{E_i}, \vec{B_i}, \omega_i, \vec{k_i} = k_{i,x}\vec{e_x} + k_{i, z}\vec{e_z})$ provenant du milieu $1$ vers l'interface avec un angle $\alpha$ par rapport à la normale. Pour simplifier, on suppose le champ électrique incident polarisé rectilignement selon la perpendiculaire au plan d'incidence.
+
+On rappelle qu'à une interface, la composante tangentielle du champ électrique est continue.
+
+\begin{enumerate}
+	\item Rappeler les trois lois de Descartes.
+	
+	\item Justifier qu'il doit exister une onde transmise et/ou une onde réflechie. 
+
+	On appellera $(\vec{E_t}, \vec{B_t}, \omega_t, \vec{k_t})$ l'onde transmise et $(\vec{E_r}, \vec{B_r}, \omega_r, \vec{k_r})$ l'onde réfléchie. 
+	
+	\item Justifier qualitativement que, si ils existent, les champ électrique transmis et réfléchi ont la même polarisation que le champ électrique incident.
+	
+	\item Sur un schéma, faire figurer l'interface, les trois ondes ainsi que les angles respectifs.
+	
+	\item Montrer que les ondes ont toute la même pulsation.
+	
+	\item Montrer que les ondes ont toute le même $k_x$.
+	
+	\item Montrer que $\frac{\vec{k_t}^2}{\epsilon_{r2}} = \frac{\vec{k_r}^2}{\epsilon_{r1}} = \frac{\vec{k_i}^2}{\epsilon_{r1}}$.
+	
+	\item En déduire les lois de Descartes sur la réflexion et la réfraction.
+\end{enumerate}
