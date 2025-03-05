@@ -1,0 +1,69 @@
+\section{Semaine 19 (03/03-07/03) }
+
+\e{Notions abordées :}
+\begin{itemize}
+	\item Thermodynamique statistique.
+\end{itemize}
+
+\subsection{Exercice 1 : Atmosphère adiabatique}
+
+Pour l'air atmosphérique de la troposphère (partie de l'atmosphère la plus proche du sol terrestre), le modèle de l'atmosphère adiabatique est plus réaliste que le modèle de l'atmosphère isotherme.
+
+\begin{enumerate}
+	\item Rappeler les hypothèses du modèle de l'atmosphère isotherme.
+	
+	On ne suppose donc plus que la température de l'atmosphère est uniforme. Par contre, on suppose que les particules de fluide ne subissent que des transformations adiabatiques.
+	
+	\item Montrer que pour un système thermodynamique fermé, composé d'un gaz parfait et qui subit une transformation adiabatique réversible, on a $PV^\gamma = \textrm{cst}$, où l'on donnera la définition de $\gamma$. 
+	
+	\item Soit $\rho(z)$ la masse volumique de l'atmosphère à l'altitude $z$. Déduire que $P(z) \rho(z)^{-\gamma} = \textrm{cst}$.
+	
+	\item Par application du théorème d'équipartition, que vaut $C_v$ pour un gaz parfait diatomique ? En déduire $\gamma$.
+	
+	\item On note $T(z)$ la température à l'altitude $z$. Montrer que $P(z)^{1-\gamma} T(z)^\gamma = \textrm{cst}$.
+	
+	\item Déduire de cette équation et de l'équation fondamentale de l'hydrostatique que $\frac{dT}{dz} = -\Gamma$ où $\Gamma$ est une constante que l'on exprimera en fonction de $g$, $\gamma$; $R$ et $M = \SI{29.0}{\gram\per\mole}$ la masse molaire de l'air. Application numérique pour $\Gamma$.
+	
+	\item Exprimer la pression et la température en fonction de $z$, des conditions initiales $P(0)$ et $T(0)$, de $\Gamma$ et de $\gamma$.
+	
+	\item Calculer la pression et la température en haut du Mont-Blanc ($\SI{4800}{m}$). Commentaire.
+	
+	\item L'atmosphère a une épaisseur de l'ordre de $\SI{100}{km}$. En déduire que ce modèle ne peut pas s'appliquer sur toute la hauteur de l'atmosphère.
+\end{enumerate}	
+
+
+\subsection{Exercice 2 : Système à trois niveaux d'énergie}
+
+Un système physique, en contact avec un thermostat à la température $T$ est constitué de $N$ atomes indépendants pouvant se trouver dans des états non dégénérés d'énergies respectives $-\epsilon$, $0$ et $+\epsilon$. Déterminer les expressions de l'énergie interne molaire $U_m$, de l'écart quadratique en énergie molaire $\Delta U_m$ et de la capacité thermique molaire $C_m$ de ce système. Représenter le graphe des variations de $C_m$ en fonction de la variable $x = \frac{k_B T}{\epsilon}$. Commenter.
+
+\subsection{Exercice 3 : Capacité thermique d'un gaz, contribution électronique}
+
+\begin{enumerate}
+	\item Déterminer la capacité thermique d'un gaz parfait diatomique.
+	
+	En fait, la capacité thermique d'un gaz est la somme des contributions provenant des énergies de translation, de rotation et de vibration, mais aussi de l'énergie des électrons dans les atomes. On peut donc écrire $C = C_{ext} + C_{int}$ avec $C$ la capacité thermique totale, $C_{ext}$ la capacité thermique calculée à la question précédente, et $C_{int}$ celle associée à l'énergie des électrons dans les atomes.
+	
+	\item Démontrer la relation précédente à partir de la définition de la capacité thermique en physique statistique.
+	
+	\item Les niveaux d'énergie électroniques de l'atome d'hydrogène sont $E_n = -\frac{\SI{13.6}{\electronvolt}}{n^2}$ avec $n$ entier supérieur ou égal à $1$. 
+	\begin{enumerate}
+		\item Quelle est la différence d'énergie $\Delta$ entre l'état fondamental et le premier niveau excité ? Application numérique.
+		\item Le niveau d'énergie $E_n$ comporte $2 n^2$ états quantiques différents : sa dégénérescence est $g_n = 2n^2$. Calculer le rapport du nombre d'atomes d'hydrogène dans le premier niveau excité sur le nombre d'atomes dans le niveau fondamental, à l'équilibre, à la température $T = \SI{298}{K}$, en fonction de $\Delta$, $k_B$ et $T$.
+		\item Quelle est l'influence des niveaux d'énergie électroniques sur la capacité thermique d'un gaz d'hydrogène atomique à température ordinaire ?
+	\end{enumerate} 
+	
+	\item La plupart des atomes ont, comme l'atome d'hydrogène, des niveaux d'énergie électroniques trop élevés pour qu'ils soient peuplés par l'agitation thermique aux températures ordinaires, mais les atomes halogènes font exception. L'atome de chlore possède un niveau excité de dégénérescence $g_2 = 2$ dont la différence d'énergie est $\Delta = \SI{0.109}{\electronvolt}$ seulement. On ne tient compte dans la suite que de ces deux niveaux d'énergie.
+	\begin{enumerate}
+		\item Calculer le rapport du nombre d'atomes de chlore dans le premier niveau excité sur le nombre d'atomes de chlore dans l'état fondamental, à l'équilibre, à la température $T = \SI{298}{K}$.
+		
+		\item Exprimer en fonction de $\Delta$ et $k_bT$ l'énergie électronique moyenne $<E_{el}>$ d'un atome de chlore en équilibre avec un thermostat à la température $T$. On prendra l'énergie du fondamental nulle.
+		
+		\item En déduire la contribution $C_{m, el}$ à la capacité thermique molaire du gaz atomique \ce{Cl} de l'énergie électronique, en fonction de $R$, $T$ et $\Theta_{el} = \Delta / k_B$. 
+		
+		\item Tracer l'allure le courbe donnant $C_{m, el}/R$ en fonction de $T/\Theta_{el}$. Commenter.
+		
+		\item Déterminer graphiquement la valeur de la température telle que la capacité thermique molaire électronique est maximale. En déduire numériquement la capacité thermique molaire électrique à cette température. S'agit-il d'une contribution significative à la capacité thermique molaire totale ?
+	\end{enumerate}
+	
+\end{enumerate}
+
