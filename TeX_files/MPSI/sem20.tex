@@ -1,11 +1,18 @@
-\section{Semaine 02 (23/09-27/09) }
+\section{Semaine 20 (10/03 - 14/03) }
 
 
 \e{Notions abordées :}
 \begin{itemize}
-	\item Révisions de MPSI en électronique.
-	\item Filtrage d'un signal périodique.
+	\item Filtrage linéaire.
 \end{itemize}
+
+\subsection{Questions de cours}
+
+\begin{enumerate}
+	\item Grandeur complexe associée à un signal sinusoïdal réel.
+	\item Impédances des dipôles usuels. Démonstration.
+	\item Exprimer le signal de sortie d'un filtre linéaire en notation réelle en fonction de la fonction de transfert.
+\end{enumerate}
 
 \subsection{Exercice 1}
 
@@ -14,19 +21,19 @@
 		%Circuit
 		\draw (0, 0) 
 		to[R, l=$R$] (3, 0)
-		to [L, l=$L$, v<=$v_s$] ++ (0, -2)
+		to [L, l_=$L$] ++ (0, -2)
 		-- (0, -2)
 		to [open, v=$v_e$] (0, 0);
+		
+		\draw (3, 0) --++ (1.5, 0) to [C, l_=$C$, v^<=$v_s$] ++ (0, -2) --(0, -2);
 	\end{circuitikz}
 \end{minipage}%
 \begin{minipage}[c]{\linewidth/2}
-	On donne $R = \SI{1.0}{k\Omega}$, $L = \SI{10}{mH}$ et $C = \SI{0.50}{\micro\farad}$.
+	On donne $R = \SI{1.0}{k\Omega}$ et $L = \SI{10}{mH}$.
 	\begin{enumerate}
 		\item Quel type de filtre ce circuit permet-il de réaliser ?
 		\item Déterminer sa fonction de transfert.
 		\item Déterminer les pentes des asymptotes en gain BF et HF.
-		\item Tracer le diagramme de Bode.
-		\item Déterminer la largeur de la bande passante et le facteur de qualité.
 		\item $v_e$ s'écrit comme somme de trois harmoniques de même amplitude, de même phase à l'origine et de fréquences respectives $f_1 = \SI{100}{Hz}$, $f_2 = \SI{1}{kHz}$ et $f_3 = \SI{100}{kHz}$. Écrire $v_e$ puis $v_s$.
 		\item $v_e$ est maintenant un triangle de fréquence \SI{60}{Hz}. Quelle est la forme de $v_s$ ?
 	\end{enumerate}
@@ -82,4 +89,3 @@
 		\item $v_e$ s'écrit comme somme de trois harmoniques de même amplitude, de même phase à l'origine et de fréquences respectives $f_1 = \SI{100}{Hz}$, $f_2 = \SI{1}{kHz}$ et $f_3 = \SI{100}{kHz}$. Écrire $v_e$ puis $v_s$.
 	\end{enumerate}
 \end{minipage}
-

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.8)  5 MAR 2025 12:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.8)  12 MAR 2025 09:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -771,22 +771,27 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 (./TeX_files/MPSI/sem13.aux) (./TeX_files/MPSI/sem14.aux)
 (./TeX_files/MPSI/sem15.aux) (./TeX_files/MPSI/sem16.aux)
 (./TeX_files/MPSI/sem17.aux) (./TeX_files/MPSI/sem18.aux)
-(./TeX_files/MPSI/sem19.aux) (./TeX_files/MPI/sem02.aux)
-(./TeX_files/MPI/sem03.aux) (./TeX_files/MPI/sem04.aux)
-(./TeX_files/MPI/sem05.aux) (./TeX_files/MPI/sem06.aux)
-(./TeX_files/MPI/sem07.aux) (./TeX_files/MPI/sem08.aux)
-(./TeX_files/MPI/sem09.aux) (./TeX_files/MPI/sem10.aux)
-(./TeX_files/MPI/sem11.aux) (./TeX_files/MPI/sem12.aux)
-(./TeX_files/MPI/sem13.aux) (./TeX_files/MPI/sem14.aux)
-(./TeX_files/MPI/sem15.aux) (./TeX_files/MPI/sem16.aux)
-(./TeX_files/MPI/sem17.aux) (./TeX_files/MPI/sem18.aux)
-(./TeX_files/MP/sem01.aux) (./TeX_files/MP/sem02.aux) (./TeX_files/MP/sem03.aux
-) (./TeX_files/MP/sem04.aux) (./TeX_files/MP/sem05.aux)
-(./TeX_files/MP/sem06.aux) (./TeX_files/MP/sem07.aux) (./TeX_files/MP/sem08.aux
-) (./TeX_files/MP/sem09.aux) (./TeX_files/MP/sem10.aux)
-(./TeX_files/MP/sem11.aux) (./TeX_files/MP/sem14.aux) (./TeX_files/MP/sem15.aux
-) (./TeX_files/MP/sem16.aux) (./TeX_files/MP/sem17.aux)
-(./TeX_files/MP/sem18.aux) (./TeX_files/MP/sem19.aux))
+(./TeX_files/MPSI/sem19.aux) (./TeX_files/MPSI/sem20.aux)
+(./TeX_files/MPI/sem02.aux) (./TeX_files/MPI/sem03.aux)
+(./TeX_files/MPI/sem04.aux) (./TeX_files/MPI/sem05.aux)
+(./TeX_files/MPI/sem06.aux) (./TeX_files/MPI/sem07.aux)
+(./TeX_files/MPI/sem08.aux) (./TeX_files/MPI/sem09.aux)
+(./TeX_files/MPI/sem10.aux) (./TeX_files/MPI/sem11.aux)
+(./TeX_files/MPI/sem12.aux) (./TeX_files/MPI/sem13.aux)
+(./TeX_files/MPI/sem14.aux) (./TeX_files/MPI/sem15.aux)
+(./TeX_files/MPI/sem16.aux) (./TeX_files/MPI/sem17.aux)
+(./TeX_files/MPI/sem18.aux) (./TeX_files/MP/sem01.aux)
+(./TeX_files/MP/sem02.aux) (./TeX_files/MP/sem03.aux) (./TeX_files/MP/sem04.aux
+) (./TeX_files/MP/sem05.aux) (./TeX_files/MP/sem06.aux)
+(./TeX_files/MP/sem07.aux) (./TeX_files/MP/sem08.aux) (./TeX_files/MP/sem09.aux
+) (./TeX_files/MP/sem10.aux) (./TeX_files/MP/sem11.aux)
+(./TeX_files/MP/sem14.aux) (./TeX_files/MP/sem15.aux) (./TeX_files/MP/sem16.aux
+) (./TeX_files/MP/sem17.aux) (./TeX_files/MP/sem18.aux)
+(./TeX_files/MP/sem19.aux) (./TeX_files/MP/sem20.aux
+
+LaTeX Warning: Label `qprec' multiply defined.
+
+))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -1211,7 +1216,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `./TeX_files/MPSI/sem08.aux'.
 
  (./TeX_files/MPSI/sem08.tex
-<./Images/mpsi_s08_ex01.png, id=120, 619.31375pt x 211.79124pt>
+<./Images/mpsi_s08_ex01.png, id=124, 619.31375pt x 211.79124pt>
 File: ./Images/mpsi_s08_ex01.png Graphic file (type png)
 <use ./Images/mpsi_s08_ex01.png>
 Package pdftex.def Info: ./Images/mpsi_s08_ex01.png  used on input line 21.
@@ -1221,7 +1226,7 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 20--26
 []$[]$$[]$ 
  []
 
-<./Images/mpsi_s08_ex02.png, id=121, 640.3925pt x 443.6575pt>
+<./Images/mpsi_s08_ex02.png, id=125, 640.3925pt x 443.6575pt>
 File: ./Images/mpsi_s08_ex02.png Graphic file (type png)
 <use ./Images/mpsi_s08_ex02.png>
 Package pdftex.def Info: ./Images/mpsi_s08_ex02.png  used on input line 45.
@@ -1244,7 +1249,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
  <./Images/mpsi_s08_ex01.png>]
-<./Images/mpsi_s08_ex03.png, id=126, 1139.25626pt x 540.0175pt>
+<./Images/mpsi_s08_ex03.png, id=130, 1139.25626pt x 540.0175pt>
 File: ./Images/mpsi_s08_ex03.png Graphic file (type png)
 <use ./Images/mpsi_s08_ex03.png>
 Package pdftex.def Info: ./Images/mpsi_s08_ex03.png  used on input line 68.
@@ -1552,7 +1557,7 @@ Overfull \hbox (1.73862pt too wide) in paragraph at lines 56--57
 ne $[][][][][][][][][]$.
  []
 
-<./Images/mpsi_s18_ex02.png, id=206, 246.9225pt x 184.43906pt>
+<./Images/mpsi_s18_ex02.png, id=207, 246.9225pt x 184.43906pt>
 File: ./Images/mpsi_s18_ex02.png Graphic file (type png)
 <use ./Images/mpsi_s18_ex02.png>
 Package pdftex.def Info: ./Images/mpsi_s18_ex02.png  used on input line 58.
@@ -1584,7 +1589,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [43 <./Images/mpsi_s18_ex02.png>]
-<./Images/mpsi_s18_ex03.png, id=215, 377.91188pt x 271.0125pt>
+<./Images/mpsi_s18_ex03.png, id=216, 377.91188pt x 271.0125pt>
 File: ./Images/mpsi_s18_ex03.png Graphic file (type png)
 <use ./Images/mpsi_s18_ex03.png>
 Package pdftex.def Info: ./Images/mpsi_s18_ex03.png  used on input line 88.
@@ -1615,7 +1620,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `./TeX_files/MPSI/sem19.aux'.
 
  (./TeX_files/MPSI/sem19.tex
-<./Images/mpsi_s19_ex01.png, id=224, 524.45938pt x 343.78438pt>
+<./Images/mpsi_s19_ex01.png, id=225, 524.45938pt x 343.78438pt>
 File: ./Images/mpsi_s19_ex01.png Graphic file (type png)
 <use ./Images/mpsi_s19_ex01.png>
 Package pdftex.def Info: ./Images/mpsi_s19_ex01.png  used on input line 22.
@@ -1638,7 +1643,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
  <./Images/mpsi_s19_ex01.png>]
-<./Images/mpsi_s19_ex02.png, id=229, 435.6275pt x 226.34563pt>
+<./Images/mpsi_s19_ex02.png, id=230, 435.6275pt x 226.34563pt>
 File: ./Images/mpsi_s19_ex02.png Graphic file (type png)
 <use ./Images/mpsi_s19_ex02.png>
 Package pdftex.def Info: ./Images/mpsi_s19_ex02.png  used on input line 34.
@@ -1648,7 +1653,7 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 34--35
 [][] 
  []
 
-<./Images/mpsi_s19_ex03.png, id=230, 346.29375pt x 167.62625pt>
+<./Images/mpsi_s19_ex03.png, id=231, 346.29375pt x 167.62625pt>
 File: ./Images/mpsi_s19_ex03.png Graphic file (type png)
 <use ./Images/mpsi_s19_ex03.png>
 Package pdftex.def Info: ./Images/mpsi_s19_ex03.png  used on input line 52.
@@ -1675,50 +1680,51 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[48 <./Images/mpsi_s19_ex03.png>] [49
+[48 <./Images/mpsi_s19_ex03.png>]
+\openout2 = `./TeX_files/MPSI/sem20.aux'.
 
-
-
-]
-\openout2 = `./TeX_files/MPI/sem02.aux'.
-
- (./TeX_files/MPI/sem02.tex
+ (./TeX_files/MPSI/sem20.tex
 \absvshift=\dimen307
 \absvshift=\dimen308
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+Overfull \hbox (30.8721pt too wide) in paragraph at lines 29--30
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
 []\T1/cmr/m/n/12 Déterminer sa fonc-tion de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 []\T1/cmr/m/n/12 Déterminer les pentes des
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 28--29
+Underfull \hbox (badness 1735) in paragraph at lines 37--38
 []$\OML/cmm/m/it/12 v[]$ \T1/cmr/m/n/12 s'écrit comme somme de
  []
 
 \absvshift=\dimen309
 \absvshift=\dimen310
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 []\T1/cmr/m/n/12 Déterminer sa fonc-tion de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 []\T1/cmr/m/n/12 Déterminer les pentes des
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 51--52
+Underfull \hbox (badness 1735) in paragraph at lines 60--61
 []$\OML/cmm/m/it/12 v[]$ \T1/cmr/m/n/12 s'écrit comme somme de
  []
 
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 35--55
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 44--64
 []$[]$$[]$ 
  []
 
@@ -1734,28 +1740,127 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[50
+[49
+
+
 
 ]
 \absvshift=\dimen311
 \absvshift=\dimen312
 
-Overfull \hbox (4.1957pt too wide) in paragraph at lines 72--73
+Overfull \hbox (4.1957pt too wide) in paragraph at lines 81--82
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 []\T1/cmr/m/n/12 Déterminer sa fonc-tion de
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 80--81
+Underfull \hbox (badness 1735) in paragraph at lines 89--90
+[]$\OML/cmm/m/it/12 v[]$ \T1/cmr/m/n/12 s'écrit comme somme de
+ []
+
+)
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 67--64
+[]$[]$$[]$ 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[50] [51
+
+
+
+]
+\openout2 = `./TeX_files/MPI/sem02.aux'.
+
+ (./TeX_files/MPI/sem02.tex
+\absvshift=\dimen313
+\absvshift=\dimen314
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+[]\T1/cmr/m/n/12 Déterminer sa fonc-tion de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+[]\T1/cmr/m/n/12 Déterminer les pentes des
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 29--30
+[]\T1/cmr/m/n/12 Déterminer la lar-geur de la
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 30--31
+[]$\OML/cmm/m/it/12 v[]$ \T1/cmr/m/n/12 s'écrit comme somme de
+ []
+
+\absvshift=\dimen315
+\absvshift=\dimen316
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+[]\T1/cmr/m/n/12 Déterminer sa fonc-tion de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+[]\T1/cmr/m/n/12 Déterminer les pentes des
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 53--54
 []$\OML/cmm/m/it/12 v[]$ \T1/cmr/m/n/12 s'écrit comme somme de
  []
 
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 58--83
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 37--57
+[]$[]$$[]$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[52
+
+]
+\absvshift=\dimen317
+\absvshift=\dimen318
+
+Overfull \hbox (4.1957pt too wide) in paragraph at lines 74--75
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+[]\T1/cmr/m/n/12 Déterminer sa fonc-tion de
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 82--83
+[]$\OML/cmm/m/it/12 v[]$ \T1/cmr/m/n/12 s'écrit comme somme de
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 60--85
 []$[]$$[]$ 
  []
 
@@ -1768,7 +1873,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[51]
+[53]
 \openout2 = `./TeX_files/MPI/sem03.aux'.
 
  (./TeX_files/MPI/sem03.tex)
@@ -1780,7 +1885,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[52
+[54
 
 
 
@@ -1796,7 +1901,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[53
+[55
 
 
 
@@ -1809,7 +1914,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[54]
+[56]
 \openout2 = `./TeX_files/MPI/sem05.aux'.
 
  (./TeX_files/MPI/sem05.tex
@@ -1821,12 +1926,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[55
+[57
 
 
 
 ]
-<Images/mp_s04_ex02.png, id=262, 678.535pt x 274.02374pt>
+<Images/mp_s04_ex02.png, id=270, 678.535pt x 274.02374pt>
 File: Images/mp_s04_ex02.png Graphic file (type png)
 <use Images/mp_s04_ex02.png>
 Package pdftex.def Info: Images/mp_s04_ex02.png  used on input line 63.
@@ -1849,7 +1954,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[56 <./Images/mp_s04_ex02.png>])
+[58 <./Images/mp_s04_ex02.png>])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1858,11 +1963,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[57]
+[59]
 \openout2 = `./TeX_files/MPI/sem06.aux'.
 
  (./TeX_files/MPI/sem06.tex
-<./Images/mp_s05_ex01.png, id=271, 154.176pt x 115.632pt>
+<./Images/mp_s05_ex01.png, id=278, 154.176pt x 115.632pt>
 File: ./Images/mp_s05_ex01.png Graphic file (type png)
 <use ./Images/mp_s05_ex01.png>
 Package pdftex.def Info: ./Images/mp_s05_ex01.png  used on input line 14.
@@ -1882,13 +1987,13 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 13--25
 []$[]$$[]$ 
  []
 
-<./Images/mp_s05_ex03.png, id=272, 154.176pt x 115.632pt>
+<./Images/mp_s05_ex03.png, id=279, 154.176pt x 115.632pt>
 File: ./Images/mp_s05_ex03.png Graphic file (type png)
 <use ./Images/mp_s05_ex03.png>
 Package pdftex.def Info: ./Images/mp_s05_ex03.png  used on input line 39.
 (pdftex.def)             Requested size: 154.1756pt x 115.63171pt.
 )
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 38--71
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 38--73
 []$[]$$[]$ 
  []
 
@@ -1900,7 +2005,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[58
+[60
 
 
 
@@ -1917,7 +2022,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[59
+[61
 
 
 
@@ -1930,7 +2035,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[60]
+[62]
 \openout2 = `./TeX_files/MPI/sem08.aux'.
 
  (./TeX_files/MPI/sem08.tex
@@ -1942,7 +2047,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[61
+[63
 
 
 
@@ -1961,7 +2066,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[62]
+[64]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1970,7 +2075,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[63]
+[65]
 \openout2 = `./TeX_files/MPI/sem09.aux'.
 
  (./TeX_files/MPI/sem09.tex)
@@ -1982,7 +2087,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[64
+[66
 
 
 
@@ -1998,7 +2103,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[65
+[67
 
 
 
@@ -2006,31 +2111,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `./TeX_files/MPI/sem11.aux'.
 
  (./TeX_files/MPI/sem11.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[66
-
-
-
-])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[67]
-\openout2 = `./TeX_files/MPI/sem12.aux'.
-
- (./TeX_files/MPI/sem12.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2053,6 +2133,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [69]
+\openout2 = `./TeX_files/MPI/sem12.aux'.
+
+ (./TeX_files/MPI/sem12.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[70
+
+
+
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[71]
 \openout2 = `./TeX_files/MPI/sem13.aux'.
 
  (./TeX_files/MPI/sem13.tex
@@ -2070,7 +2175,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[70
+[72
 
 
 
@@ -2092,7 +2197,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[71
+[73
 
 
 
@@ -2100,31 +2205,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `./TeX_files/MPI/sem15.aux'.
 
  (./TeX_files/MPI/sem15.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[72
-
-
-
-])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[73]
-\openout2 = `./TeX_files/MPI/sem16.aux'.
-
- (./TeX_files/MPI/sem16.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2147,9 +2227,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [75]
-\openout2 = `./TeX_files/MPI/sem17.aux'.
+\openout2 = `./TeX_files/MPI/sem16.aux'.
 
- (./TeX_files/MPI/sem17.tex
+ (./TeX_files/MPI/sem16.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2172,6 +2252,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [77]
+\openout2 = `./TeX_files/MPI/sem17.aux'.
+
+ (./TeX_files/MPI/sem17.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[78
+
+
+
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[79]
 \openout2 = `./TeX_files/MPI/sem18.aux'.
 
  (./TeX_files/MPI/sem18.tex
@@ -2183,7 +2288,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[78
+[80
 
 
 
@@ -2208,7 +2313,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[79])
+[81])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2217,7 +2322,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[80] [81
+[82] [83
 
 
 
@@ -2225,8 +2330,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `./TeX_files/MP/sem01.aux'.
 
  (./TeX_files/MP/sem01.tex
-\absvshift=\dimen313
-\absvshift=\dimen314
+\absvshift=\dimen319
+\absvshift=\dimen320
 
 Underfull \hbox (badness 10000) in paragraph at lines 27--28
 []\T1/cmr/m/n/12 Déterminer sa fonc-tion de
@@ -2242,8 +2347,8 @@ Underfull \hbox (badness 1735) in paragraph at lines 29--30
 []$\OML/cmm/m/it/12 v[]$ \T1/cmr/m/n/12 s'écrit comme somme de
  []
 
-\absvshift=\dimen315
-\absvshift=\dimen316
+\absvshift=\dimen321
+\absvshift=\dimen322
 
 Underfull \hbox (badness 10000) in paragraph at lines 50--51
 []\T1/cmr/m/n/12 Déterminer sa fonc-tion de
@@ -2276,11 +2381,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[82
+[84
 
 ]
-\absvshift=\dimen317
-\absvshift=\dimen318
+\absvshift=\dimen323
+\absvshift=\dimen324
 
 Overfull \hbox (4.1957pt too wide) in paragraph at lines 73--74
 [][] 
@@ -2297,7 +2402,7 @@ Underfull \hbox (badness 1735) in paragraph at lines 81--82
  []
 
 )
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 59--86
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 59--88
 []$[]$$[]$ 
  []
 
@@ -2309,7 +2414,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[83]
+[85]
 \openout2 = `./TeX_files/MP/sem02.aux'.
 
  (./TeX_files/MP/sem02.tex)
@@ -2321,7 +2426,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[84
+[86
 
 
 
@@ -2337,7 +2442,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[85
+[87
 
 
 
@@ -2367,7 +2472,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[86
+[88
 
 
 
@@ -2380,7 +2485,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[87]
+[89]
 \openout2 = `./TeX_files/MP/sem05.aux'.
 
  (./TeX_files/MP/sem05.tex
@@ -2421,7 +2526,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[88
+[90
 
 
 
@@ -2437,7 +2542,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[89
+[91
 
 
 
@@ -2450,7 +2555,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[90]
+[92]
 \openout2 = `./TeX_files/MP/sem07.aux'.
 
  (./TeX_files/MP/sem07.tex
@@ -2462,7 +2567,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[91
+[93
 
 
 
@@ -2475,32 +2580,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[92])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[93]
-\openout2 = `./TeX_files/MP/sem08.aux'.
-
- (./TeX_files/MP/sem08.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[94
-
-
-
-])
+[94])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2510,9 +2590,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [95]
-\openout2 = `./TeX_files/MP/sem09.aux'.
+\openout2 = `./TeX_files/MP/sem08.aux'.
 
- (./TeX_files/MP/sem09.tex
+ (./TeX_files/MP/sem08.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2535,6 +2615,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [97]
+\openout2 = `./TeX_files/MP/sem09.aux'.
+
+ (./TeX_files/MP/sem09.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[98
+
+
+
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[99]
 \openout2 = `./TeX_files/MP/sem10.aux'.
 
  (./TeX_files/MP/sem10.tex
@@ -2558,7 +2663,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[98
+[100
 
 
 
@@ -2571,7 +2676,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[99]
+[101]
 \openout2 = `./TeX_files/MP/sem11.aux'.
 
  (./TeX_files/MP/sem11.tex
@@ -2583,7 +2688,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[100
+[102
 
 
 
@@ -2596,7 +2701,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[101])
+[103])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2605,7 +2710,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[102]
+[104]
 \openout2 = `./TeX_files/MP/sem14.aux'.
 
  (./TeX_files/MP/sem14.tex
@@ -2617,7 +2722,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[103
+[105
 
 
 
@@ -2630,7 +2735,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[104])
+[106])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2639,7 +2744,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[105]
+[107]
 \openout2 = `./TeX_files/MP/sem15.aux'.
 
  (./TeX_files/MP/sem15.tex
@@ -2651,7 +2756,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[106
+[108
 
 
 
@@ -2669,7 +2774,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[107])
+[109])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2678,7 +2783,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[108]
+[110]
 \openout2 = `./TeX_files/MP/sem16.aux'.
 
  (./TeX_files/MP/sem16.tex
@@ -2690,7 +2795,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[109
+[111
 
 
 
@@ -2715,7 +2820,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[110])
+[112])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2724,7 +2829,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[111]
+[113]
 \openout2 = `./TeX_files/MP/sem17.aux'.
 
  (./TeX_files/MP/sem17.tex
@@ -2736,7 +2841,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[112
+[114
 
 
 
@@ -2761,7 +2866,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[113])
+[115])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2770,7 +2875,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[114]
+[116]
 \openout2 = `./TeX_files/MP/sem18.aux'.
 
  (./TeX_files/MP/sem18.tex
@@ -2782,12 +2887,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[115
+[117
 
 
 
 ]
-<./Images/mp_s18_ex02.png, id=459, 404.26031pt x 108.405pt>
+<./Images/mp_s18_ex02.png, id=467, 404.26031pt x 108.405pt>
 File: ./Images/mp_s18_ex02.png Graphic file (type png)
 <use ./Images/mp_s18_ex02.png>
 Package pdftex.def Info: ./Images/mp_s18_ex02.png  used on input line 66.
@@ -2805,7 +2910,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[116]
+[118]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2814,7 +2919,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[117 <./Images/mp_s18_ex02.png>]
+[119 <./Images/mp_s18_ex02.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2823,7 +2928,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[118])
+[120])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2832,7 +2937,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[119]
+[121]
 \openout2 = `./TeX_files/MP/sem19.aux'.
 
  (./TeX_files/MP/sem19.tex
@@ -2858,7 +2963,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[120
+[122
 
 
 
@@ -2871,7 +2976,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[121])
+[123])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2880,7 +2985,63 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[122] (./main.aux (./TeX_files/MPSI/sem01.aux) (./TeX_files/MPSI/sem02.aux)
+[124]
+\openout2 = `./TeX_files/MP/sem20.aux'.
+
+ (./TeX_files/MP/sem20.tex
+File: ./Images/mpsi_s05_ex02.png Graphic file (type png)
+<use ./Images/mpsi_s05_ex02.png>
+Package pdftex.def Info: ./Images/mpsi_s05_ex02.png  used on input line 30.
+(pdftex.def)             Requested size: 195.0pt x 109.58214pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 29--35
+[]$[]$$[]$ 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[125
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[126])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[127]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[128
+
+
+
+] (./main.aux (./TeX_files/MPSI/sem01.aux) (./TeX_files/MPSI/sem02.aux)
 (./TeX_files/MPSI/sem03.aux) (./TeX_files/MPSI/sem04.aux)
 (./TeX_files/MPSI/sem05.aux) (./TeX_files/MPSI/sem06.aux)
 (./TeX_files/MPSI/sem07.aux) (./TeX_files/MPSI/sem08.aux)
@@ -2889,32 +3050,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (./TeX_files/MPSI/sem13.aux) (./TeX_files/MPSI/sem14.aux)
 (./TeX_files/MPSI/sem15.aux) (./TeX_files/MPSI/sem16.aux)
 (./TeX_files/MPSI/sem17.aux) (./TeX_files/MPSI/sem18.aux)
-(./TeX_files/MPSI/sem19.aux) (./TeX_files/MPI/sem02.aux)
-(./TeX_files/MPI/sem03.aux) (./TeX_files/MPI/sem04.aux)
-(./TeX_files/MPI/sem05.aux) (./TeX_files/MPI/sem06.aux)
-(./TeX_files/MPI/sem07.aux) (./TeX_files/MPI/sem08.aux)
-(./TeX_files/MPI/sem09.aux) (./TeX_files/MPI/sem10.aux)
-(./TeX_files/MPI/sem11.aux) (./TeX_files/MPI/sem12.aux)
-(./TeX_files/MPI/sem13.aux) (./TeX_files/MPI/sem14.aux)
-(./TeX_files/MPI/sem15.aux) (./TeX_files/MPI/sem16.aux)
-(./TeX_files/MPI/sem17.aux) (./TeX_files/MPI/sem18.aux)
-(./TeX_files/MP/sem01.aux) (./TeX_files/MP/sem02.aux) (./TeX_files/MP/sem03.aux
-) (./TeX_files/MP/sem04.aux) (./TeX_files/MP/sem05.aux)
-(./TeX_files/MP/sem06.aux) (./TeX_files/MP/sem07.aux) (./TeX_files/MP/sem08.aux
-) (./TeX_files/MP/sem09.aux) (./TeX_files/MP/sem10.aux)
-(./TeX_files/MP/sem11.aux) (./TeX_files/MP/sem14.aux) (./TeX_files/MP/sem15.aux
-) (./TeX_files/MP/sem16.aux) (./TeX_files/MP/sem17.aux)
-(./TeX_files/MP/sem18.aux) (./TeX_files/MP/sem19.aux))
+(./TeX_files/MPSI/sem19.aux) (./TeX_files/MPSI/sem20.aux)
+(./TeX_files/MPI/sem02.aux) (./TeX_files/MPI/sem03.aux)
+(./TeX_files/MPI/sem04.aux) (./TeX_files/MPI/sem05.aux)
+(./TeX_files/MPI/sem06.aux) (./TeX_files/MPI/sem07.aux)
+(./TeX_files/MPI/sem08.aux) (./TeX_files/MPI/sem09.aux)
+(./TeX_files/MPI/sem10.aux) (./TeX_files/MPI/sem11.aux)
+(./TeX_files/MPI/sem12.aux) (./TeX_files/MPI/sem13.aux)
+(./TeX_files/MPI/sem14.aux) (./TeX_files/MPI/sem15.aux)
+(./TeX_files/MPI/sem16.aux) (./TeX_files/MPI/sem17.aux)
+(./TeX_files/MPI/sem18.aux) (./TeX_files/MP/sem01.aux)
+(./TeX_files/MP/sem02.aux) (./TeX_files/MP/sem03.aux) (./TeX_files/MP/sem04.aux
+) (./TeX_files/MP/sem05.aux) (./TeX_files/MP/sem06.aux)
+(./TeX_files/MP/sem07.aux) (./TeX_files/MP/sem08.aux) (./TeX_files/MP/sem09.aux
+) (./TeX_files/MP/sem10.aux) (./TeX_files/MP/sem11.aux)
+(./TeX_files/MP/sem14.aux) (./TeX_files/MP/sem15.aux) (./TeX_files/MP/sem16.aux
+) (./TeX_files/MP/sem17.aux) (./TeX_files/MP/sem18.aux)
+(./TeX_files/MP/sem19.aux) (./TeX_files/MP/sem20.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 40706 strings out of 474116
- 1073623 string characters out of 5735143
+ 41140 strings out of 474116
+ 1088747 string characters out of 5735143
  1957190 words of memory out of 5000000
- 62351 multiletter control sequences out of 15000+600000
+ 62772 multiletter control sequences out of 15000+600000
  574390 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,107p,793b,964s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2929,23 +3095,25 @@ s/cm/cmr12.pfb><c:/Users/chams/Applications/texlive/2024/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmr6.pfb><c:/Users/chams/Applications/texlive/2024/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Users/chams/Applications/texlive
 /2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/Users/chams/Appl
-ications/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/U
-sers/chams/Applications/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfb
-x1200.pfb><c:/Users/chams/Applications/texlive/2024/texmf-dist/fonts/type1/publ
-ic/cm-super/sfbx1440.pfb><c:/Users/chams/Applications/texlive/2024/texmf-dist/f
-onts/type1/public/cm-super/sfbx1728.pfb><c:/Users/chams/Applications/texlive/20
-24/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/Users/chams/Applicat
-ions/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/Users
-/chams/Applications/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm120
+ications/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/U
+sers/chams/Applications/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy8.pfb><c:/Users/chams/Applications/texlive/2024/texmf-dist/fonts/type1/publ
+ic/cm-super/sfbx1200.pfb><c:/Users/chams/Applications/texlive/2024/texmf-dist/f
+onts/type1/public/cm-super/sfbx1440.pfb><c:/Users/chams/Applications/texlive/20
+24/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/Users/chams/Applicat
+ions/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/Users
+/chams/Applications/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm080
 0.pfb><c:/Users/chams/Applications/texlive/2024/texmf-dist/fonts/type1/public/c
-m-super/sfrm1440.pfb><c:/Users/chams/Applications/texlive/2024/texmf-dist/fonts
-/type1/public/cm-super/sfrm2074.pfb><c:/Users/chams/Applications/texlive/2024/t
-exmf-dist/fonts/type1/public/cm-super/sfti0800.pfb><c:/Users/chams/Applications
-/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (132 pages, 1204364 bytes).
+m-super/sfrm1200.pfb><c:/Users/chams/Applications/texlive/2024/texmf-dist/fonts
+/type1/public/cm-super/sfrm1440.pfb><c:/Users/chams/Applications/texlive/2024/t
+exmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/Users/chams/Applications
+/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb><c:/Users/cha
+ms/Applications/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pf
+b>
+Output written on main.pdf (138 pages, 1226859 bytes).
 PDF statistics:
- 575 PDF objects out of 1000 (max. 8388607)
- 360 compressed objects within 4 object streams
+ 599 PDF objects out of 1000 (max. 8388607)
+ 376 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  103 words of extra memory for PDF output out of 10000 (max. 10000000)
 
