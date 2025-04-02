@@ -1,0 +1,23 @@
+4 juin : 2h : 1h MPI + 1h MP
+11 juin : 3h pas de mp : 3h MPI
+18 juin : 5h : 2h MPI + 3h MP
+
+
+Mercredi 4 juin : 
+	15h MPI
+	16h MP
+	17h MPSI
+	18h MPSI
+
+Mercredi 11 juin :
+	15h MPI
+	16h MPI
+	17h MPI
+	18h MPSI
+
+Mercredi 18 juin :
+	14h MPI
+	15h MPI
+	16h MP
+	17h MP
+	18h MP
