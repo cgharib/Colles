@@ -126,165 +126,170 @@
 \contentsline {subsection}{Exercice 1 : Chute d'une personne sur un poteau}{68}{}%
 \contentsline {subsection}{Exercice 2 : Chute d'une tartine beurrée}{69}{}%
 \contentsline {subsection}{Exercice 3 : Suspension d'un tableau}{70}{}%
-\contentsline {chapter}{MPI}{71}{}%
-\contentsline {section}{Semaine 02 (23/09-27/09) }{72}{}%
-\contentsline {subsection}{Exercice 1}{72}{}%
-\contentsline {subsection}{Exercice 2}{73}{}%
-\contentsline {subsection}{Exercice 3}{73}{}%
-\contentsline {section}{Semaine 03 (30/09-04/10) }{74}{}%
-\contentsline {subsection}{Exercice 1 : Intégration d'un créneau par un filtre passe bande}{74}{}%
-\contentsline {subsection}{Exercice 2 : Shannon comme au cinéma}{74}{}%
-\contentsline {section}{Semaine 04 (07/10-11/10) }{75}{}%
-\contentsline {subsection}{Exercice 1 : Système à deux ressorts}{75}{}%
-\contentsline {subsection}{Exercice 2 : Frottement et facteur de qualité}{75}{}%
-\contentsline {subsection}{Exercice 3 : Mouvement autour d'une position d'équilibre}{76}{}%
-\contentsline {section}{Semaine 04 (14/10-18/10) }{77}{}%
-\contentsline {subsection}{Exercice 1 : Force en $1/r^4$}{77}{}%
-\contentsline {subsection}{Exercice 2 : Satellite géostationnaire}{77}{}%
-\contentsline {subsection}{Exercice 3 : Chute d'un satellite dans l'atmosphère}{77}{}%
-\contentsline {subsection}{Exercice 4 : Pendule pesant dans une voiture accélérée}{78}{}%
-\contentsline {subsection}{Exercice 5 : Limite de Roche}{78}{}%
-\contentsline {subsection}{Exercice 6 : Usure d'une ligne de TGV}{79}{}%
-\contentsline {subsection}{Exercice 7 : Impesanteur}{79}{}%
-\contentsline {section}{Semaine 06 (04/11-08/11) }{80}{}%
-\contentsline {subsection}{Exercice 1 : Glissement d'une caisse dans un camion}{80}{}%
-\contentsline {subsection}{Exercice 2 : Cube sur un plan incliné}{80}{}%
-\contentsline {subsection}{Exercice 3 : Glissement et liaison avec une corde}{80}{}%
-\contentsline {section}{Semaine 07 (11/11-15/11) }{81}{}%
-\contentsline {subsection}{Questions de cours :}{81}{}%
-\contentsline {subsection}{Exercice 1 : Fluoration du dioxyde d'uranium}{81}{}%
-\contentsline {subsection}{Exercice 2 : Constante d'équilibre et quotient de réaction.}{81}{}%
-\contentsline {subsection}{Exercice 3 : Utilisation du quotient de réaction.}{82}{}%
-\contentsline {section}{Semaine 08 (18/11-22/11) }{83}{}%
-\contentsline {subsection}{Questions de cours}{83}{}%
-\contentsline {subsection}{Exercice 1 : Vitamine C}{83}{}%
-\contentsline {subsection}{Exercice 2 : Titrage du dioxyde de soufre dans le vin}{84}{}%
-\contentsline {subsection}{Exercice 3 : Pile à combustible}{84}{}%
-\contentsline {section}{Semaine 09 (25/11-29/11) }{86}{}%
-\contentsline {subsection}{Questions de cours}{86}{}%
-\contentsline {section}{Semaine 10 (02/12-06/12) }{87}{}%
-\contentsline {section}{Semaine 11 (09/12-13/12) }{88}{}%
-\contentsline {subsection}{Exercice 1 : Cohérence spatiale des fentes d'Young}{88}{}%
-\contentsline {subsection}{Exercice 2 : Interférences sur une goutte}{88}{}%
-\contentsline {subsection}{Exercice 3 : Mesure de l'indice d'un verre}{88}{}%
-\contentsline {section}{Semaine 12 (16/12-20/12) }{90}{}%
-\contentsline {subsection}{Exercice 1 : Interférences sur une goutte}{90}{}%
-\contentsline {subsection}{Exercice 2 : Mesure de l'épaisseur d'une lame}{90}{}%
-\contentsline {subsection}{Exercice 3 : Mesure de l'indice de l'air}{91}{}%
-\contentsline {section}{Semaine 13 (06/01-10/01)}{92}{}%
-\contentsline {subsection}{Questions de cours :}{92}{}%
-\contentsline {subsection}{Exercices}{92}{}%
-\contentsline {section}{Semaine 14 (13/01-17/01)}{93}{}%
-\contentsline {subsection}{Questions de cours :}{93}{}%
-\contentsline {subsection}{Questions sur le Michelson :}{93}{}%
-\contentsline {subsection}{Exercices}{93}{}%
-\contentsline {section}{Semaine 15 (20/01-24/01)}{94}{}%
-\contentsline {subsection}{Questions de cours}{94}{}%
-\contentsline {subsection}{Exercice 1 : Condensateur cylindrique}{94}{}%
-\contentsline {subsection}{Exercice 2 : Plaque épaisse chargée}{94}{}%
-\contentsline {subsection}{Exercice 3 : Condensateur à cylindres parallèles}{95}{}%
-\contentsline {section}{Semaine 16 (27/01-31/01)}{96}{}%
+\contentsline {section}{Semaine 27 (12/05 - 16/05) }{71}{}%
+\contentsline {subsection}{Questions de cours}{71}{}%
+\contentsline {subsection}{Exercice 1 : Longueurs d'onde associées à des électrons}{71}{}%
+\contentsline {subsection}{Exercice 2 : Flux de photons dans un faisceau laser}{71}{}%
+\contentsline {subsection}{Exercice 3 : Télémétrie Terre-Lune}{72}{}%
+\contentsline {chapter}{MPI}{73}{}%
+\contentsline {section}{Semaine 02 (23/09-27/09) }{74}{}%
+\contentsline {subsection}{Exercice 1}{74}{}%
+\contentsline {subsection}{Exercice 2}{75}{}%
+\contentsline {subsection}{Exercice 3}{75}{}%
+\contentsline {section}{Semaine 03 (30/09-04/10) }{76}{}%
+\contentsline {subsection}{Exercice 1 : Intégration d'un créneau par un filtre passe bande}{76}{}%
+\contentsline {subsection}{Exercice 2 : Shannon comme au cinéma}{76}{}%
+\contentsline {section}{Semaine 04 (07/10-11/10) }{77}{}%
+\contentsline {subsection}{Exercice 1 : Système à deux ressorts}{77}{}%
+\contentsline {subsection}{Exercice 2 : Frottement et facteur de qualité}{77}{}%
+\contentsline {subsection}{Exercice 3 : Mouvement autour d'une position d'équilibre}{78}{}%
+\contentsline {section}{Semaine 04 (14/10-18/10) }{79}{}%
+\contentsline {subsection}{Exercice 1 : Force en $1/r^4$}{79}{}%
+\contentsline {subsection}{Exercice 2 : Satellite géostationnaire}{79}{}%
+\contentsline {subsection}{Exercice 3 : Chute d'un satellite dans l'atmosphère}{79}{}%
+\contentsline {subsection}{Exercice 4 : Pendule pesant dans une voiture accélérée}{80}{}%
+\contentsline {subsection}{Exercice 5 : Limite de Roche}{80}{}%
+\contentsline {subsection}{Exercice 6 : Usure d'une ligne de TGV}{81}{}%
+\contentsline {subsection}{Exercice 7 : Impesanteur}{81}{}%
+\contentsline {section}{Semaine 06 (04/11-08/11) }{82}{}%
+\contentsline {subsection}{Exercice 1 : Glissement d'une caisse dans un camion}{82}{}%
+\contentsline {subsection}{Exercice 2 : Cube sur un plan incliné}{82}{}%
+\contentsline {subsection}{Exercice 3 : Glissement et liaison avec une corde}{82}{}%
+\contentsline {section}{Semaine 07 (11/11-15/11) }{83}{}%
+\contentsline {subsection}{Questions de cours :}{83}{}%
+\contentsline {subsection}{Exercice 1 : Fluoration du dioxyde d'uranium}{83}{}%
+\contentsline {subsection}{Exercice 2 : Constante d'équilibre et quotient de réaction.}{83}{}%
+\contentsline {subsection}{Exercice 3 : Utilisation du quotient de réaction.}{84}{}%
+\contentsline {section}{Semaine 08 (18/11-22/11) }{85}{}%
+\contentsline {subsection}{Questions de cours}{85}{}%
+\contentsline {subsection}{Exercice 1 : Vitamine C}{85}{}%
+\contentsline {subsection}{Exercice 2 : Titrage du dioxyde de soufre dans le vin}{86}{}%
+\contentsline {subsection}{Exercice 3 : Pile à combustible}{86}{}%
+\contentsline {section}{Semaine 09 (25/11-29/11) }{88}{}%
+\contentsline {subsection}{Questions de cours}{88}{}%
+\contentsline {section}{Semaine 10 (02/12-06/12) }{89}{}%
+\contentsline {section}{Semaine 11 (09/12-13/12) }{90}{}%
+\contentsline {subsection}{Exercice 1 : Cohérence spatiale des fentes d'Young}{90}{}%
+\contentsline {subsection}{Exercice 2 : Interférences sur une goutte}{90}{}%
+\contentsline {subsection}{Exercice 3 : Mesure de l'indice d'un verre}{90}{}%
+\contentsline {section}{Semaine 12 (16/12-20/12) }{92}{}%
+\contentsline {subsection}{Exercice 1 : Interférences sur une goutte}{92}{}%
+\contentsline {subsection}{Exercice 2 : Mesure de l'épaisseur d'une lame}{92}{}%
+\contentsline {subsection}{Exercice 3 : Mesure de l'indice de l'air}{93}{}%
+\contentsline {section}{Semaine 13 (06/01-10/01)}{94}{}%
+\contentsline {subsection}{Questions de cours :}{94}{}%
+\contentsline {subsection}{Exercices}{94}{}%
+\contentsline {section}{Semaine 14 (13/01-17/01)}{95}{}%
+\contentsline {subsection}{Questions de cours :}{95}{}%
+\contentsline {subsection}{Questions sur le Michelson :}{95}{}%
+\contentsline {subsection}{Exercices}{95}{}%
+\contentsline {section}{Semaine 15 (20/01-24/01)}{96}{}%
 \contentsline {subsection}{Questions de cours}{96}{}%
-\contentsline {subsection}{Exercice 1 : Bobine torique}{96}{}%
-\contentsline {subsection}{Exercice 2 : Caractéristiques d'un câble coaxial}{96}{}%
-\contentsline {subsection}{Exercice 3 : Équilibre d'une tige dans un champ non uniforme}{97}{}%
-\contentsline {subsection}{Exercice 4 : Action mécanique d'un fil sur un autre fil parallèle}{97}{}%
-\contentsline {section}{Semaine 17 (03/02-07/02)}{98}{}%
+\contentsline {subsection}{Exercice 1 : Condensateur cylindrique}{96}{}%
+\contentsline {subsection}{Exercice 2 : Plaque épaisse chargée}{96}{}%
+\contentsline {subsection}{Exercice 3 : Condensateur à cylindres parallèles}{97}{}%
+\contentsline {section}{Semaine 16 (27/01-31/01)}{98}{}%
 \contentsline {subsection}{Questions de cours}{98}{}%
-\contentsline {subsection}{Exercice 1 : Un exo d'induction}{98}{}%
-\contentsline {subsection}{Exercice 2 : Inductances propres et mutuelles}{98}{}%
-\contentsline {subsection}{Exercice 3 : Induction par un aimant mobile}{99}{}%
-\contentsline {section}{Semaine 18 (10/02-14/02)}{100}{}%
+\contentsline {subsection}{Exercice 1 : Bobine torique}{98}{}%
+\contentsline {subsection}{Exercice 2 : Caractéristiques d'un câble coaxial}{98}{}%
+\contentsline {subsection}{Exercice 3 : Équilibre d'une tige dans un champ non uniforme}{99}{}%
+\contentsline {subsection}{Exercice 4 : Action mécanique d'un fil sur un autre fil parallèle}{99}{}%
+\contentsline {section}{Semaine 17 (03/02-07/02)}{100}{}%
 \contentsline {subsection}{Questions de cours}{100}{}%
-\contentsline {subsection}{Exercice 1 : Propagation guidée entre deux plans}{100}{}%
-\contentsline {subsection}{Exercice 2 : Lois de Descartes sur la réflexion et la réfraction}{101}{}%
-\contentsline {subsection}{Exercice 3 : Équation de Klein-Gordon et masse du photon}{101}{}%
-\contentsline {section}{Semaine 21 (17/03-21/03)}{103}{}%
-\contentsline {subsection}{Questions de cours}{103}{}%
-\contentsline {subsection}{Exercice 1 : Résolution de l'équation de la chaleur en régime permanent dans un barreau cylindrique}{103}{}%
-\contentsline {subsection}{Exercice 2 : Ondes thermiques}{104}{}%
-\contentsline {subsection}{Exercice 3 : Isolation extérieure ou intérieure}{104}{}%
-\contentsline {subsection}{Exercice 4 : Température d'équilibre de la Terre}{105}{}%
-\contentsline {chapter}{MP}{107}{}%
-\contentsline {section}{Semaine 01 (16/09-20/09) }{108}{}%
-\contentsline {subsection}{Exercice 1}{108}{}%
-\contentsline {subsection}{Exercice 2}{109}{}%
-\contentsline {subsection}{Exercice 3}{109}{}%
-\contentsline {section}{Semaine 02 (23/09-27/09) }{110}{}%
+\contentsline {subsection}{Exercice 1 : Un exo d'induction}{100}{}%
+\contentsline {subsection}{Exercice 2 : Inductances propres et mutuelles}{100}{}%
+\contentsline {subsection}{Exercice 3 : Induction par un aimant mobile}{101}{}%
+\contentsline {section}{Semaine 18 (10/02-14/02)}{102}{}%
+\contentsline {subsection}{Questions de cours}{102}{}%
+\contentsline {subsection}{Exercice 1 : Propagation guidée entre deux plans}{102}{}%
+\contentsline {subsection}{Exercice 2 : Lois de Descartes sur la réflexion et la réfraction}{103}{}%
+\contentsline {subsection}{Exercice 3 : Équation de Klein-Gordon et masse du photon}{103}{}%
+\contentsline {section}{Semaine 21 (17/03-21/03)}{105}{}%
+\contentsline {subsection}{Questions de cours}{105}{}%
+\contentsline {subsection}{Exercice 1 : Résolution de l'équation de la chaleur en régime permanent dans un barreau cylindrique}{105}{}%
+\contentsline {subsection}{Exercice 2 : Ondes thermiques}{106}{}%
+\contentsline {subsection}{Exercice 3 : Isolation extérieure ou intérieure}{106}{}%
+\contentsline {subsection}{Exercice 4 : Température d'équilibre de la Terre}{107}{}%
+\contentsline {chapter}{MP}{109}{}%
+\contentsline {section}{Semaine 01 (16/09-20/09) }{110}{}%
 \contentsline {subsection}{Exercice 1}{110}{}%
-\contentsline {subsection}{Exercice 2}{110}{}%
-\contentsline {subsection}{Exercice 3}{110}{}%
-\contentsline {subsection}{Exercice 4}{110}{}%
-\contentsline {section}{Semaine 03 (30/09-04/10) }{111}{}%
-\contentsline {subsection}{Exercice 1}{111}{}%
 \contentsline {subsection}{Exercice 2}{111}{}%
 \contentsline {subsection}{Exercice 3}{111}{}%
-\contentsline {section}{Semaine 04 (07/10-11/10) }{112}{}%
-\contentsline {subsection}{Exercice 1 : Pendule pesant dans une voiture accélérée}{112}{}%
-\contentsline {subsection}{Exercice 2 : Limite de Roche}{112}{}%
-\contentsline {subsection}{Exercice 3 : Usure d'une ligne de TGV}{113}{}%
-\contentsline {section}{Semaine 05 (14/10-18/10) }{114}{}%
-\contentsline {subsection}{Exercice 1 : Glissement d'une caisse dans un camion}{114}{}%
-\contentsline {subsection}{Exercice 2 : Cube sur un plan incliné}{114}{}%
-\contentsline {subsection}{Exercice 3 : Glissement et liaison avec une corde}{114}{}%
-\contentsline {section}{Semaine 06 (04/11-08/11) }{115}{}%
-\contentsline {subsection}{Exercice 1 : Condensateur cylindrique}{115}{}%
-\contentsline {subsection}{Exercice 2 : Condensateur sphérique}{115}{}%
-\contentsline {subsection}{Exercice 3 : Rayon classique de l'électron}{116}{}%
-\contentsline {section}{Semaine 07 (11/11-15/11) }{117}{}%
-\contentsline {subsection}{Questions de cours :}{117}{}%
-\contentsline {subsection}{Exercice 1 : Décomposition de l'azométhane en phase gazeuse}{117}{}%
-\contentsline {subsection}{Exercice 2 : Temps de demi-réaction}{117}{}%
-\contentsline {subsection}{Exercice 3 : Dismutation des ions hypochlorites}{118}{}%
-\contentsline {section}{Semaine 08 (18/11-22/11) }{120}{}%
-\contentsline {subsection}{Exercice 1 : Bobine torique}{120}{}%
-\contentsline {subsection}{Exercice 2 : Caractéristiques d'un câble coaxial}{120}{}%
-\contentsline {subsection}{Exercice 3 : Équilibre d'une tige dans un champ non uniforme}{120}{}%
-\contentsline {subsection}{Exercice 4 : Action mécanique d'un fil sur un autre fil parallèle}{121}{}%
-\contentsline {section}{Semaine 09 (25/11-29/11) }{122}{}%
-\contentsline {subsection}{Exercice 1 : Double rails de Laplace}{122}{}%
-\contentsline {subsection}{Exercice 2 : Inductances propres et mutuelles}{122}{}%
-\contentsline {subsection}{Exercice 3 : Induction par un aimant mobile}{123}{}%
-\contentsline {subsection}{Exercice 4 : Mesure d'une inductance mutuelle par battements}{123}{}%
-\contentsline {section}{Semaine 10 (02/12-06/12) }{124}{}%
-\contentsline {subsection}{Questions de cours}{124}{}%
-\contentsline {subsection}{Exercice 1 : Combustion de l'éthyne}{124}{}%
-\contentsline {subsection}{Exercice 2 : Mesure de l'enthalpie d'autoprotolyse de l'eau}{124}{}%
-\contentsline {subsection}{Exercice 3 : Combustion du monoxyde de carbone}{125}{}%
-\contentsline {section}{Semaine 11 (09/12-13/12) }{126}{}%
+\contentsline {section}{Semaine 02 (23/09-27/09) }{112}{}%
+\contentsline {subsection}{Exercice 1}{112}{}%
+\contentsline {subsection}{Exercice 2}{112}{}%
+\contentsline {subsection}{Exercice 3}{112}{}%
+\contentsline {subsection}{Exercice 4}{112}{}%
+\contentsline {section}{Semaine 03 (30/09-04/10) }{113}{}%
+\contentsline {subsection}{Exercice 1}{113}{}%
+\contentsline {subsection}{Exercice 2}{113}{}%
+\contentsline {subsection}{Exercice 3}{113}{}%
+\contentsline {section}{Semaine 04 (07/10-11/10) }{114}{}%
+\contentsline {subsection}{Exercice 1 : Pendule pesant dans une voiture accélérée}{114}{}%
+\contentsline {subsection}{Exercice 2 : Limite de Roche}{114}{}%
+\contentsline {subsection}{Exercice 3 : Usure d'une ligne de TGV}{115}{}%
+\contentsline {section}{Semaine 05 (14/10-18/10) }{116}{}%
+\contentsline {subsection}{Exercice 1 : Glissement d'une caisse dans un camion}{116}{}%
+\contentsline {subsection}{Exercice 2 : Cube sur un plan incliné}{116}{}%
+\contentsline {subsection}{Exercice 3 : Glissement et liaison avec une corde}{116}{}%
+\contentsline {section}{Semaine 06 (04/11-08/11) }{117}{}%
+\contentsline {subsection}{Exercice 1 : Condensateur cylindrique}{117}{}%
+\contentsline {subsection}{Exercice 2 : Condensateur sphérique}{117}{}%
+\contentsline {subsection}{Exercice 3 : Rayon classique de l'électron}{118}{}%
+\contentsline {section}{Semaine 07 (11/11-15/11) }{119}{}%
+\contentsline {subsection}{Questions de cours :}{119}{}%
+\contentsline {subsection}{Exercice 1 : Décomposition de l'azométhane en phase gazeuse}{119}{}%
+\contentsline {subsection}{Exercice 2 : Temps de demi-réaction}{119}{}%
+\contentsline {subsection}{Exercice 3 : Dismutation des ions hypochlorites}{120}{}%
+\contentsline {section}{Semaine 08 (18/11-22/11) }{122}{}%
+\contentsline {subsection}{Exercice 1 : Bobine torique}{122}{}%
+\contentsline {subsection}{Exercice 2 : Caractéristiques d'un câble coaxial}{122}{}%
+\contentsline {subsection}{Exercice 3 : Équilibre d'une tige dans un champ non uniforme}{122}{}%
+\contentsline {subsection}{Exercice 4 : Action mécanique d'un fil sur un autre fil parallèle}{123}{}%
+\contentsline {section}{Semaine 09 (25/11-29/11) }{124}{}%
+\contentsline {subsection}{Exercice 1 : Double rails de Laplace}{124}{}%
+\contentsline {subsection}{Exercice 2 : Inductances propres et mutuelles}{124}{}%
+\contentsline {subsection}{Exercice 3 : Induction par un aimant mobile}{125}{}%
+\contentsline {subsection}{Exercice 4 : Mesure d'une inductance mutuelle par battements}{125}{}%
+\contentsline {section}{Semaine 10 (02/12-06/12) }{126}{}%
 \contentsline {subsection}{Questions de cours}{126}{}%
-\contentsline {subsection}{Exercice 1 : Interprétation des enthalpies et entropies de réaction}{126}{}%
-\contentsline {subsection}{Exercice 2 : Étude du produit ionique}{127}{}%
-\contentsline {subsection}{Exercice 3 : Existence du diamant}{127}{}%
-\contentsline {section}{Semaine 14 (13/01-17/01) }{129}{}%
-\contentsline {subsection}{Questions de cours}{129}{}%
-\contentsline {subsection}{Exercice 1 : Déplacement d'équilibre par ajout d'un composé inerte}{129}{}%
-\contentsline {subsection}{Exercice 2 : Déchloration du pentachlorure de phosphore}{130}{}%
-\contentsline {subsection}{Exercice 3 : Combustion du méthane}{130}{}%
-\contentsline {section}{Semaine 15 (20/01-24/01) }{132}{}%
-\contentsline {subsection}{Exercice 1 : Chauffage d'un métal par le soleil}{132}{}%
-\contentsline {subsection}{Exercice 2 : Ondes électromagnétiques dans un diélectrique}{132}{}%
-\contentsline {subsection}{Exercice 3 : Équation de Klein-Gordon et masse du photon}{133}{}%
-\contentsline {section}{Semaine 16 (27/01-31/01) }{135}{}%
-\contentsline {subsection}{Exercice 1 : Chauffage d'un métal par le soleil}{135}{}%
-\contentsline {subsection}{Exercice 2 : Propagation guidée entre deux plans}{135}{}%
-\contentsline {subsection}{Exercice 3 : Lois de Descartes sur la réflexion et la réfraction}{136}{}%
-\contentsline {section}{Semaine 17 (03/02-07/02) }{138}{}%
-\contentsline {subsection}{Exercice 1 : Modèle planétaire de l'atome}{138}{}%
-\contentsline {subsection}{Exercice 2 : Propagation guidée entre deux plans}{138}{}%
-\contentsline {subsection}{Exercice 3 : Lois de Descartes sur la réflexion et la réfraction}{139}{}%
-\contentsline {section}{Semaine 17 (03/02-07/02) }{141}{}%
-\contentsline {subsection}{Questions de cours :}{141}{}%
-\contentsline {subsection}{Exercice 1 : Machine frigorifique à fluide idéal}{141}{}%
-\contentsline {subsection}{Exercice 2 : Turbine à vapeur}{142}{}%
-\contentsline {subsection}{Exercice 3 : Installation frigorifique}{144}{}%
-\contentsline {section}{Semaine 19 (03/03-07/03) }{146}{}%
-\contentsline {subsection}{Exercice 1 : Atmosphère adiabatique}{146}{}%
-\contentsline {subsection}{Exercice 2 : Système à trois niveaux d'énergie}{146}{}%
-\contentsline {subsection}{Exercice 3 : Capacité thermique d'un gaz, contribution électronique}{147}{}%
-\contentsline {section}{Semaine 20 (10/03-14/03) }{149}{}%
-\contentsline {subsection}{Questions de cours}{149}{}%
-\contentsline {subsection}{Exercice 1 : Méthode de Bessel pour la focométrie}{149}{}%
-\contentsline {subsection}{Exercice 2 : Microscope}{149}{}%
-\contentsline {subsection}{Exercice 3 : Lunette astronomique}{150}{}%
-\contentsline {subsection}{Exercice 4 : Stigmatisme d'une lame à faces parallèles}{150}{}%
+\contentsline {subsection}{Exercice 1 : Combustion de l'éthyne}{126}{}%
+\contentsline {subsection}{Exercice 2 : Mesure de l'enthalpie d'autoprotolyse de l'eau}{126}{}%
+\contentsline {subsection}{Exercice 3 : Combustion du monoxyde de carbone}{127}{}%
+\contentsline {section}{Semaine 11 (09/12-13/12) }{128}{}%
+\contentsline {subsection}{Questions de cours}{128}{}%
+\contentsline {subsection}{Exercice 1 : Interprétation des enthalpies et entropies de réaction}{128}{}%
+\contentsline {subsection}{Exercice 2 : Étude du produit ionique}{129}{}%
+\contentsline {subsection}{Exercice 3 : Existence du diamant}{129}{}%
+\contentsline {section}{Semaine 14 (13/01-17/01) }{131}{}%
+\contentsline {subsection}{Questions de cours}{131}{}%
+\contentsline {subsection}{Exercice 1 : Déplacement d'équilibre par ajout d'un composé inerte}{131}{}%
+\contentsline {subsection}{Exercice 2 : Déchloration du pentachlorure de phosphore}{132}{}%
+\contentsline {subsection}{Exercice 3 : Combustion du méthane}{132}{}%
+\contentsline {section}{Semaine 15 (20/01-24/01) }{134}{}%
+\contentsline {subsection}{Exercice 1 : Chauffage d'un métal par le soleil}{134}{}%
+\contentsline {subsection}{Exercice 2 : Ondes électromagnétiques dans un diélectrique}{134}{}%
+\contentsline {subsection}{Exercice 3 : Équation de Klein-Gordon et masse du photon}{135}{}%
+\contentsline {section}{Semaine 16 (27/01-31/01) }{137}{}%
+\contentsline {subsection}{Exercice 1 : Chauffage d'un métal par le soleil}{137}{}%
+\contentsline {subsection}{Exercice 2 : Propagation guidée entre deux plans}{137}{}%
+\contentsline {subsection}{Exercice 3 : Lois de Descartes sur la réflexion et la réfraction}{138}{}%
+\contentsline {section}{Semaine 17 (03/02-07/02) }{140}{}%
+\contentsline {subsection}{Exercice 1 : Modèle planétaire de l'atome}{140}{}%
+\contentsline {subsection}{Exercice 2 : Propagation guidée entre deux plans}{140}{}%
+\contentsline {subsection}{Exercice 3 : Lois de Descartes sur la réflexion et la réfraction}{141}{}%
+\contentsline {section}{Semaine 17 (03/02-07/02) }{143}{}%
+\contentsline {subsection}{Questions de cours :}{143}{}%
+\contentsline {subsection}{Exercice 1 : Machine frigorifique à fluide idéal}{143}{}%
+\contentsline {subsection}{Exercice 2 : Turbine à vapeur}{144}{}%
+\contentsline {subsection}{Exercice 3 : Installation frigorifique}{146}{}%
+\contentsline {section}{Semaine 19 (03/03-07/03) }{148}{}%
+\contentsline {subsection}{Exercice 1 : Atmosphère adiabatique}{148}{}%
+\contentsline {subsection}{Exercice 2 : Système à trois niveaux d'énergie}{148}{}%
+\contentsline {subsection}{Exercice 3 : Capacité thermique d'un gaz, contribution électronique}{149}{}%
+\contentsline {section}{Semaine 20 (10/03-14/03) }{151}{}%
+\contentsline {subsection}{Questions de cours}{151}{}%
+\contentsline {subsection}{Exercice 1 : Méthode de Bessel pour la focométrie}{151}{}%
+\contentsline {subsection}{Exercice 2 : Microscope}{151}{}%
+\contentsline {subsection}{Exercice 3 : Lunette astronomique}{152}{}%
+\contentsline {subsection}{Exercice 4 : Stigmatisme d'une lame à faces parallèles}{152}{}%
