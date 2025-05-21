@@ -1,0 +1,92 @@
+\section{Semaine 28 (19/05 - 23/05) }
+
+
+\e{Notions abordées :}
+\begin{itemize}
+	\item Introduction à la physique quantique. (cf semaine précédente).
+	\item Introduction à la thermodynamique.
+	\item Corps pur diphasé.
+\end{itemize}
+
+\subsection{Questions de cours}
+
+\begin{enumerate}
+	\item Définir l'énergie interne et l'enthalpie.
+	\item Définir les capacités thermiques. Valeurs pour des gaz parfaits mono- et diatomiques.
+	\item Lois de Joule. Démonstration (à partir de la température cinétique).
+\end{enumerate}
+
+\subsection{Exercice 1 : Gonfler un pneu}
+
+On considère un pneu de vélo de volume $V = \SI{2.5}{\liter}$ supposé constant. Le pneu est initialement dégonflé et l'air qui s'y trouve est à la pression atmosphérique à température ambiante. On souhaite gonfler ce pneu jusqu'à une pression $P_f = \SI{6.0}{bar}$ avec une pompe manuelle pouvant contenir un volume $V_a = \SI{300}{\cubic\centi\meter}$ d'air au maximum.
+
+Lorsqu'on tire le piston de la pompe vers le haut, on admet un volume $V_a$ d'air à la pression ambiante. Puis, lors de l'étape de refoulement, l'air admis est intégralement transvasé dans le pneu de volume $V$ invariable. La pression augmente donc.
+
+\begin{enumerate}
+	\item Justifier que si l'on procède lentement la température $T_0$ de l'air dans le pneu n'évolue pas.
+	\item Déterminer la pression dans le pneu après le premier coup de pompe en fonction de $P_0$, $V_a$ et $V$.
+	\item Calculer la pression $P_n$ dans le pneu après $n$ coups de pompes en fonction de $n$, $P_0$, $V_a$ et $V$.
+	\item Combien de coups de pompes sont nécessaires pour gonfler le pneu à la pression désirée ?
+\end{enumerate}
+
+\e{Réponses :}
+\begin{enumerate}
+	\item -
+	\item $P_1 = P_0\left( 1 + \frac{V_a}{V} \right)$
+	\item $P_n = P_0\left( 1 + n\frac{V_a}{V} \right)$
+	\item $42$.
+\end{enumerate}
+
+\subsection{Exercice 2 : Diagramme $(P, T)$ de l'eau}
+
+Soit une masse $m = \SI{900}{\gram}$ d'eau subissant depuis un état initial à la température $T_1 = \SI{298}{\kelvin}$ et à la pression $P_1 = \SI{1.00}{bar}$ un chauffage à pression constante jusqu'à la température $T_2 = \SI{473}{\kelvin}$ puis une compression à température constante jusqu'à un volume $V_3 = \SI{100}{\liter}$ et enfin une autre compression à température constante jusqu'à un état d'équilibre liquide-vapeur de volume $V_4 = \SI{50.0}{\liter}$. On donne les pressions de vapeur saturante à $\SI{373}{\kelvin}$ et $\SI{473}{\kelvin}$ qui sont respectivement $\SI{1.00}{bar}$ et $\SI{15.5}{bar}$ ainsi que la masse molaire de l'eau $\SI{18}{\gram\per\mol}$.
+
+\begin{enumerate}
+	\item Quel est l'état physique de l'eau dans les états 1 et 2 ?
+	\item Déterminer la pression $P_3$ de l'état 3 ainsi que l'état physique de l'eau dans cet état.
+	\item Déterminer le titre en vapeur de l'eau dans l'état 4.
+	\item Représenter les différentes transformations dans le diagramme donnant la pression en fonction de la température.
+\end{enumerate}
+
+\e{Réponses :}
+\begin{enumerate}
+	\item liquide pour 1, vapeur pour 2
+	\item $P_3 = P_{sat}(T_3)$ et $x_{V, 3} = 0.788$
+	\item $x_{V, 4} = 0.394$
+\end{enumerate}
+
+\subsection{Exercice 3 : États de l'éther}
+
+On conserve dans une pièce à $\SI{18.0}{\degreeCelsius}$ un flacon contenant $\SI{50.0}{\milli\liter}$ d'éther liquide à cette température et à la pression de vapeur saturante $P_{sat} = \SI{0.544}{bar}$. On suppose que le flacon ne contient que de l'éther.
+
+On donne les caractéristiques physiques suivantes pour l'éther : 
+
+\begin{tabular}{|c|c|c|}
+	\hline
+	$T~(\unit{\degreeCelsius})$ & $P_{sat}$ (bar) & $\rho_{liquide}~(\unit{\kilogram\per\liter})$ \\ \hline
+	$18.0$ & $0.544$ & $0.716$ \\ \hline
+	$49.0$ & $1.65$ & $0.679$ \\ \hline
+\end{tabular}
+
+La pression du point critique est $\SI{36.4}{bar}$ et sa température $\SI{194}{\degreeCelsius}$. La masse molaire de l'éther est $M = \SI{74.1}{\gram\per\mole}$.
+
+\begin{enumerate}
+	\item Dessiner l'allure du diagramme de Clapeyron pour l'équilibre liquide-vapeur de l'éther. Faire figurer une isotherme ainsi que les points d'intérêt. Nommer les différentes courbes qui apparaissent.
+	\item Déterminer la masse et la quantité de matière d'éther contenu dans ce flacon à $\SI{18.0}{\degreeCelsius}$.
+	\item Déterminer les volumes massiques du liquide saturant et de la vapeur saturante à cette température. 
+	\item Quels sont les volumes du flacon permettant d'avoir un mélange liquide-vapeur d'éther ?
+	\item Pour un volume $V = \SI{5.50}{\liter}$, déterminer le volume massique. En déduire la fraction massique de la vapeur. La fraction molaire a-t-elle une valeur différente ?
+	\item Quel est l'état du système si on augmente la température jusqu'à $\SI{49}{\degreeCelsius}$ ? On déterminera la fraction de vapeur si on a un mélange liquide-vapeur, ou la pression si on a un système gazeux.
+	\item Même questions pour un volume $V' = \SI{10.0}{\liter}$ à $\SI{18}{\degreeCelsius}$ puis $\SI{49}{\degreeCelsius}$.
+\end{enumerate}
+
+\e{Réponses :}
+\begin{enumerate}
+	\item -
+	\item $m = \SI{35.8}{\gram}$ et $n = \SI{0.483}{\mole}$.
+	\item $v_l = \SI{1.40}{\liter\per\kilogram}$ et $v_v = \SI{600}{\liter\per\kilogram}$.
+	\item $\SI{50.0}{\milli\liter} < V < \SI{21.5}{\liter}$
+	\item $v = \SI{154}{\liter\per\kilogram}$, $x_v = \SI{25.5}{\percent}$
+	\item $x_v = \SI{70.1}{\percent}$
+	\item D'abord $x_v = \SI{46.5}{\percent}$, ensuite $P = \SI{1.29}{bar}$.
+\end{enumerate}
