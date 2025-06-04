@@ -1,0 +1,362 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.8)  4 JUN 2025 09:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/base/inputenc.st
+y
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/graphics/graphic
+x.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/graphics/keyval.
+sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/graphics/graphic
+s.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/graphics/trig.st
+y
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/graphics-cfg/gra
+phics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/graphics-def/pdf
+tex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count196
+\calc@Bcount=\count197
+\calc@Adimen=\dimen143
+\calc@Bdimen=\dimen144
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count198
+\calc@Cskip=\skip52
+)
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/generic/babel/babel.st
+y
+Package: babel 2024/02/07 v24.2 The Babel package
+\babel@savecnt=\count199
+\U@D=\dimen145
+\l@unhyphenated=\language89
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/generic/babel/txtbabel
+.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count266
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/generic/babel-french/f
+rench.ldf
+Language: french 2024-02-29 v3.5s French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language31). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language31). Reported on input line 92.
+\FB@stdchar=\count267
+Package babel Info: Making : an active character on input line 420.
+Package babel Info: Making ; an active character on input line 421.
+Package babel Info: Making ! an active character on input line 422.
+Package babel Info: Making ? an active character on input line 423.
+\FBguill@level=\count268
+\FBold@everypar=\toks20
+\FB@Mht=\dimen146
+\mc@charclass=\count269
+\mc@charfam=\count270
+\mc@charslot=\count271
+\std@mcc=\count272
+\dec@mcc=\count273
+\FB@parskip=\dimen147
+\listindentFB=\dimen148
+\descindentFB=\dimen149
+\labelindentFB=\dimen150
+\labelwidthFB=\dimen151
+\leftmarginFB=\dimen152
+\parindentFFN=\dimen153
+\FBfnindent=\dimen154
+))
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/generic/babel/locale/f
+r/babel-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+)
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/carlisle/scalefn
+t.sty)
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/siunitx/siunitx.
+sty
+Package: siunitx 2024-02-15 v3.3.12 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count274
+\l__siunitx_number_exponent_fixed_int=\count275
+\l__siunitx_number_min_decimal_int=\count276
+\l__siunitx_number_min_integer_int=\count277
+\l__siunitx_number_round_precision_int=\count278
+\l__siunitx_number_lower_threshold_int=\count279
+\l__siunitx_number_upper_threshold_int=\count280
+\l__siunitx_number_group_first_int=\count281
+\l__siunitx_number_group_size_int=\count282
+\l__siunitx_number_group_minimum_int=\count283
+\l__siunitx_angle_tmp_dim=\dimen155
+\l__siunitx_angle_marker_box=\box51
+\l__siunitx_angle_unit_box=\box52
+\l__siunitx_compound_count_int=\count284
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/translations/tra
+nslations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbo
+x.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count285
+)
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdf
+texcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/generic/infwarerr/infw
+arerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/generic/iftex/iftex.st
+y
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmd
+s.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.
+sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.s
+ty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen156
+))
+\l__siunitx_table_tmp_box=\box53
+\l__siunitx_table_tmp_dim=\dimen157
+\l__siunitx_table_column_width_dim=\dimen158
+\l__siunitx_table_integer_box=\box54
+\l__siunitx_table_decimal_box=\box55
+\l__siunitx_table_uncert_box=\box56
+\l__siunitx_table_before_box=\box57
+\l__siunitx_table_after_box=\box58
+\l__siunitx_table_before_dim=\dimen159
+\l__siunitx_table_carry_dim=\dimen160
+\l__siunitx_unit_tmp_int=\count286
+\l__siunitx_unit_position_int=\count287
+\l__siunitx_unit_total_int=\count288
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen161
+\ar@mcellbox=\box59
+\extrarowheight=\dimen162
+\NC@list=\toks22
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box60
+))
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb
+.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfont
+s.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/graphics/color.s
+ty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/graphics-cfg/col
+or.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/graphics/mathcol
+or.ltx))
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/l3backend/l3back
+end-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count289
+\l__pdf_internal_box=\box61
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/context/base/mkii/supp
+-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count290
+\scratchdimen=\dimen163
+\scratchbox=\box62
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen164
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks24
+)
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/eps
+topdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/latexconfig/epst
+opdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \degres on input line 18.
+LaTeX Info: Redefining \up on input line 18.
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/translations/tra
+nslations-basic-dictionary-french.trsl
+File: translations-basic-dictionary-french.trsl (french translation file `trans
+lations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `french'. on input line 18.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
+
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
+
+
+(c:/Users/chams/Applications/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (1.89992pt too wide) in paragraph at lines 22--23
+[]\T1/cmr/m/n/12 On consi-dère une source mo-no-chro-ma-tique de lon-gueur d'on
+de $\OML/cmm/m/it/12 ^^U \OT1/cmr/m/n/12 = 600 []$
+ []
+
+<ex_01.png, id=1, 199.24437pt x 239.89626pt>
+File: ex_01.png Graphic file (type png)
+<use ex_01.png>
+Package pdftex.def Info: ex_01.png  used on input line 34.
+(pdftex.def)             Requested size: 234.00238pt x 281.75732pt.
+[1
+
+{c:/Users/chams/Applications/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdf
+tex.map}{c:/Users/chams/Applications/texlive/2024/texmf-dist/fonts/enc/dvips/cm
+-super/cm-super-t1.enc} <./ex_01.png>]
+<ex_02.png, id=14, 453.695pt x 211.28937pt>
+File: ex_02.png Graphic file (type png)
+<use ex_02.png>
+Package pdftex.def Info: ex_02.png  used on input line 45.
+(pdftex.def)             Requested size: 272.99881pt x 127.1389pt.
+ [2 <./ex_02.png>]
+Overfull \hbox (37.60593pt too wide) in paragraph at lines 64--113
+ [] 
+ []
+
+[3] (./main.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 8528 strings out of 474116
+ 194164 string characters out of 5735143
+ 1953190 words of memory out of 5000000
+ 30823 multiletter control sequences out of 15000+600000
+ 567208 words of font info for 62 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 73i,8n,80p,595b,532s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Users/chams/Applications/texlive/2024/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi12.pfb><c:/Users/chams/Applications/texlive/2024/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi8.pfb><c:/Users/chams/Applications/texlive/2024/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/chams/Applications/te
+xlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Users/chams/A
+pplications/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c
+:/Users/chams/Applications/texlive/2024/texmf-dist/fonts/type1/public/cm-super/
+sfbx0800.pfb><c:/Users/chams/Applications/texlive/2024/texmf-dist/fonts/type1/p
+ublic/cm-super/sfbx1728.pfb><c:/Users/chams/Applications/texlive/2024/texmf-dis
+t/fonts/type1/public/cm-super/sfrm0800.pfb><c:/Users/chams/Applications/texlive
+/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (3 pages, 184692 bytes).
+PDF statistics:
+ 65 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
