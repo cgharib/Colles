@@ -1,0 +1,103 @@
+\section{Semaine 31 (09/06 - 13/06) }
+
+
+\e{Notions abordées :}
+\begin{itemize}
+	\item Second principe de la thermodynamique (cf semaine précédente).
+	\item Machines thermique.
+\end{itemize}
+
+\subsection{Questions de cours}
+
+\begin{enumerate}
+	\item Second principe de la thermodynamique.
+	\item Variation d'entropie d'une PC2I qui passe de $T_f$ à $T_c$.
+	\item Rendement de Carnot pour un moteur, démonstration. 
+\end{enumerate}
+
+\subsection{Exercice 1 :  Moteur de Stirling}
+
+Soit $n = \SI{40}{\milli\mole}$ d'hélium assimilable à un gaz parfait. Ce système subit le cycle composé des transformations quasistatiques suivantes :
+
+\begin{itemize}
+	\item Compression isotherme $AB$ lors du contact thermique avec une source froide maintenue à la température $T_f = \SI{330}{\kelvin}$ par le retour d'eau froide des circuits de chauffage.
+	\item Échauffement isochore $BC$ au contact thermique avec une source chaude maintenue à la température $T_c = \SI{930}{\kelvin}$ par un brûleur alimenté au méthane et en air.
+	\item Détente isotherme $CD$ au contact thermique avec la source chaude.
+	\item Refroidissement isochore $DA$ au contact thermique avec la source froide.
+\end{itemize}
+
+On donne $V_A = V_D = \SI{1.00}{\liter}$ et $V_B = \frac{V_A}{4}$.
+
+\begin{enumerate}
+	\item L'hélium doit-il être considéré comme un gaz parfait monoatomique ? diatomique ?
+	\item Déterminer les caractéristiques des états $A$, $B$, $C$ et $D$ en donnant les valeurs de volume, de pression et de température. On résumera les résultats dans un tableau.
+	\item Représenter l'allure du cycle en coordonnées de Watt $(P, V)$ en justifiant la réponse.
+	\item Le cycle est-il moteur ou récepteur ?
+	\item Rappeler les expressions de $C_V$, $C_P$ et $\gamma$ en fonction de $n$ et $R$.
+	\item Exprimer le travail $W_{AB}$ et le transfert thermique $Q_{AB}$ reçus par le fluide au cours de la transformation $AB$ en fonction de $n$, $R$, $T_f$, $V_A$ et $V_B$. Commenter le signe de $W_{AB}$.
+	\item Déterminer le travail $W_{BC}$ et le transfert thermique $Q_{BC}$ reçus par le fluide au cours de la transformation $BC$ en fonction de $n$, $R$, $T_c$ et $T_f$. Commenter le signe de $Q_{BC}$.
+	\item Exprimer la variation d'entropie du fluide au cours de la transformation $BC$ en fonction de $n$, $R$, $T_c$ et $T_f$. On servira d'un chemin fictif réversible judicieusement choisi. Application numérique.
+	\item Calculer l'entropie échangée $S_e$ par le fluide au cours de la transformation $BC$. 
+	\item La transformation $BC$ est-elle réversible ?
+	\item Déterminer le travail $W_{CD}$ et le transfert thermique $Q_{CD}$ reçus par le fluide au cours de la transformation $CD$.
+	\item Même question pour la transformation $DA$.
+	\item Exprimer le travail total $W_t$ fourni par le moteur au cours d'un cycle en fonction de $n$, $R$, $T_c$, $T_f$, $V_A$ et $V_B$.
+	\item Combien de cycles par seconde doit effectuer le moteur pour fournir une puissance $P$ de $\SI{2.00}{\kilo\watt}$ ?
+	\item Définir le rendement du moteur et l'exprimer en fonction de $T_c$ et $T_f$. Calculer sa valeur. Comparer avec le rendement de Carnot.
+\end{enumerate}
+
+\e{Réponses :}
+\begin{enumerate}
+	\item -
+	\item pressions : 1.10, 4.40, 12.4, 3.10
+	\item -
+	\item -
+	\item -
+	\item $W_{AB} = -n R T_f \log{\frac{V_B}{V_A}}$ et $Q_{AB} = -W_{AB}$
+	\item $Q_{BC} = C_V \Delta T$
+	\item $\Delta S = \SI{0.522}{\joule\per\kelvin}$
+	\item $S_e = \SI{0.325}{\joule\per\kelvin}$
+	\item -
+	\item -
+	\item -
+	\item $W_t = -nR(T_f-T_c)\log{\frac{V_B}{V_A}}$
+	\item $\SI{7.2}{}$ cycles par seconde.
+	\item $\eta = \SI{38}{\percent}$ et $\eta_C = \SI{65}{\percent}$
+\end{enumerate}
+
+\subsection{Exercice 2 : Compensation des pertes thermiques par une pompe à chaleur}
+
+Une pompe à chaleur fonctionne entre une pièce à la température $T_1 = \SI{20}{\degreeCelsius}$ et l'extérieur à la température $T_2 = \SI{-5.0}{\degreeCelsius}$. Les pertes thermiques correspondent à une puissance thermique perdue $P = K(T_1-T_2)$ avec $K = \SI{960}{\watt\per\kelvin}$. La pompe à chaleur fonctionne en continu de manière à compenser ces pertes.
+
+\begin{enumerate}
+	\item Expliquer par un schéma le principe de fonctionnement d'une pompe à chaleur en indiquant notamment les sources froide et chaude. Identifier les signes des grandeurs énergétiques que sont le travail $W$ et les transferts thermiques avec les sources froide et chaude $Q_f$ et $Q_c$. 
+	\item Montrer que l'efficacité $e$ d'une pompe à chaleur est majorée par l'efficacité de Carnot $e_C$, que l'on déterminera. Application numérique.
+	\item Déterminer la puissance thermique échangée au contact de la source chaude.
+	\item L'efficacité $e$ de la pompe à chaleur considérée correspond à $\SI{40}{\percent}$ de l'efficacité maximale. En déduire la puissance mécanique fournie au fluide par le compresseur de la pompe à chaleur.
+	\item Calculer la puissance électrique nécessaire au fonctionnement en continu pour maintenir une température constante dans la pièce sachant que le compresseur convertit $\SI{80}{\percent}$ de l'énergie électrique en énergie mécanique. Le kilowatt-heure ($\unit{\kilo\watt\hour}$) d'EDF coûte $0.15$ centimes d'euro, en déduire le coût de fonctionnement par heure de la machine.
+	\item Pour une heure de fonctionnement, évaluer numériquement en joule puis en $\unit{\kilo\watt\hour}$ les grandeurs énergétiques $Q_c$, $Q_f$ et $W$.
+\end{enumerate}
+
+\e{Réponses :}
+\begin{enumerate}
+	\item -
+	\item $e_C = 12$
+	\item $P_c = \SI{-24}{\kilo\watt}$
+	\item $P_{meca} = \SI{5.1}{\kilo\watt}$
+	\item $P_{elec} = \SI{6.4}{\kilo\watt}$ et coût de $0.96$ centimes d'euro par heure.
+	\item $Q_c = \SI{-86}{\mega\joule}$, $Q_f = \SI{68}{\mega\joule}$ et $W = \SI{18}{\mega\joule}$ puis diviser par $\SI{3.6e6}{}$
+\end{enumerate}
+
+\subsection{Exercice 3 : Climatisation d'un local}
+
+On étudie l'air que l'on assimile à un gaz parfait diatomique. On note $\gamma$ le coefficient adiabatique. Dans tout le problème, on considérera une mole d'air décrivant le cycle de Brayton. Ce cycle est formé de deux transformations adiabatiques et de deux transformations isobares. De l'état $1$ à l'état $2$, le gaz subit une compression adiabatique réversible le faisant passer de la pression $P_1$ à la pression $P_2$. De l'état $2$ à l'état $3$, on a une compression isobare. De l'état $3$ à l'état $4$, on trouve une détente adiabatique réversible. De l'état $4$, on revient à l'état initial par une transformation isobare.
+
+\begin{enumerate}
+	\item Tracer le cycle de Brayton dans le diagramme de Watt $(P, V)$. Justifier que ce cycle peut correspondre à un climatiseur.
+	\item En s'appuyant sur le diagramme de Watt, justifier que la transformation de l'état $2$ à l'état $3$ s'accompagne d'un refroidissement.
+	\item Exprimer le transfert thermique pour chacune des quatre transformations du cycle en fonction de $R$ et des températures.
+	\item Définir l'efficacité $\eta$ du climatiseur puis l'exprimer en fonction des transferts thermiques des différentes phases du cycle.
+	\item On pose $a = \frac{P_2}{P_1}$ le rapport de compression du cycle. Exprimer l'efficacité en fonction de $a$ et $\gamma$. 
+\end{enumerate}
+
+\e{Réponse :} $\eta = \frac{1}{a^{(\gamma-1)\gamma}-1}$
