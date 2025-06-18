@@ -1,0 +1,120 @@
+\documentclass[a4paper,12pt,french]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{calc}
+
+\usepackage[french]{babel}
+
+\usepackage[version=4]{mhchem}
+\usepackage{siunitx}
+\usepackage{amssymb}
+
+\newcommand{\e}[1]{\vspace{5mm}\noindent \textbf{\underline{#1}}}
+
+\newcommand{\makeline}{\noindent\makebox[\linewidth]{\rule{\linewidth}{0.4pt}}} 
+
+\setcounter{secnumdepth}{-1}
+
+\begin{document}
+	
+\begin{center}
+	\textit{La calculatrice est autorisée.}
+\end{center}
+
+\section{Exercice 1}
+
+Le sol terrestre est localement assimilé à un demi-espace $x>0$ homogène de masse volumique $\rho = \SI{3.1e3}{\kilogram\per\cubic\meter}$, de capacité thermique $c = \SI{870}{\joule\per\kilogram\per\kelvin}$ et de conductivité thermique $\lambda = \SI{1.8}{\watt\per\meter\per\kelvin}$.
+
+$T(x, t)$ représente la température dans le sol à la date $t$ et à la profondeur $x$.
+
+On suppose que la température à la surface du sol ($x=0$) évolue au cours de l'année selon la loi : $$T(0, t) = a \cos \omega t\textrm{ (avec } a \textrm{ constant et } \frac{2\pi}{\omega} = \SI{1}{an}\textrm{)}$$ et qu'à grande profondeur la température du sol tend vers la moyenne annuelle $$T(\infty, t) = T_0.$$
+
+\begin{enumerate}
+	\item Établir l'équation de la chaleur dans ce cas unidimensionnel.
+	\item En posant $T(x, t) = T_0 + u(x, t)$, chercher une solution sous la forme $u(x, t) = f(x) e^{i\omega t}$. On introduira une épaisseur de peau et on donnera $T(x, t)$ en écriture réelle. Commenter cette solution.
+	\item Application numérique pour l'épaisseur de peau, la longueur d'onde et la vitesse de phase.
+	\item En $x=0$ au 1er janvier, $T = T_{min} = \SI{-10}{\degreeCelsius}$ et au 1er juillet $T = T_{max} = \SI{30}{\degreeCelsius}$. Vers quelle date la température est-elle minimale à la profondeur $x = \SI{2}{\meter}$ et quelle est cette valeur ?
+	\item Tracer les graphes superposés de $T(0, t)$ et de $T(\SI{2}{\meter}, t)$ et les commenter.
+	\item Estimer l'effet à deux mètres de profondeur d'une variation de température non plus annuelle, mais journalière.
+\end{enumerate}
+
+\newpage
+
+\begin{center}
+	\textit{La calculatrice est autorisée.}
+\end{center}
+
+\section{Exercice 2}
+
+Un câble de masse linéique $\mu = \SI{1.0}{\kilogram\per\meter}$ est accroché au sol en un point $A$ de l'équateur. Sa longueur est $L = \SI{100000}{\kilo\meter}$. Il se dresse verticalement, son extrémité $B$ est libre et la tension en ce point est nulle. On donne, pour la Terre, $R_T = \SI{6.37e6}{\meter}$, $m_T = \SI{5.98e24}{\kilogram}$ et $\mathcal{G} = \SI{6.67e-11}{\meter\cubed\per\kilogram\per\second\squared}$.
+
+\begin{enumerate}
+	\item Établir l'expression de l'altitude $z_{GS}$ de l'orbite géostationnaire.
+	\item Le tronçon de câble $[z, z+dz]$ est en équilibre dans le référentiel non galiléen terrestre en rotation uniforme. On note $\vec{T}(z) = T(z)\vec{e_z}$ la tension du câble à l'altitude $z$, c'est-à-dire la force qu'exerce la portion de câble d'altitude supérieure à $z$ sur la portion de câble d'altitude inférieure à $z$. Établir l'équation différentielle vérifiée par $T(z)$ et donner l'expression de $T(z)$. En déduire la tension en $A$ et faire l'application numérique.
+	\item Une cabine d'ascenseur monte à vitesse constante le long du câble. Pourquoi cela risque-t-il de faire fléchir le câble ?
+	\item Quel est le poids d'un occupant de la cabine de masse $m$ lorsque la cabine est à l'altitude $z$ ?
+\end{enumerate}
+
+\newpage
+
+\begin{scriptsize}
+	
+\e{Nom :} \hfill \e{Date :} \hspace{3cm}
+
+\begin{center}
+\begin{tabular}{|p{.1\textwidth}|p{.8\textwidth}|p{.1\textwidth}|}
+	\hline
+	& \textbf{Ex 1 : Compréhension et application du cours (3 points)} & \\ \hline
+	0/3 & Notions mal connues ou mélangées. Définitions, lois ou relations fondamentales non sues ou mal énoncées. & \\ \hline
+	1/3 & Cours globalement su mais difficultés à l'appliquer ou trop d'imprécisions dans les énoncés. & \\ \hline
+	2/3 & Cours plutôt bien énoncé et appliqué mais quelques imprécisions sur des points classiques. & \\ \hline
+	3/3 & Cours connu, énoncé avec précision et appliqué avec rigueur. & \\ \hline
+	& \textbf{Ex 2 : Compréhension et application du cours (3 points)} & \\ \hline
+	0/3 & Notions mal connues ou mélangées. Définitions, lois ou relations fondamentales non sues ou mal énoncées. & \\ \hline
+	1/3 & Cours globalement su mais difficultés à l'appliquer ou trop d'imprécisions dans les énoncés. & \\ \hline
+	2/3 & Cours plutôt bien énoncé et appliqué mais quelques imprécisions sur des points classiques. & \\ \hline
+	3/3 & Cours connu, énoncé avec précision et appliqué avec rigueur. & \\ \hline
+	
+	& \textbf{Calculs littéraux et numériques (3 points)} & \\ \hline
+	0/3 & Trop d'erreurs de calcul ou d'applications numériques. & \\ \hline
+	1/3 & Encore trop d'erreurs. & \\ \hline
+	2/3 & Quelques erreurs ou justifications peu convaincantes dans les calculs. & \\ \hline
+	3/3 & Calculs bien menés ou corrigés en autonomie. & \\ \hline
+	
+	& \textbf{Démarche scientifique (3 points)} & \\ \hline
+	0/3 & Démarche désorganisée, sans stratégie apparente ou incohérente avec l'énoncé. & \\ \hline
+	1/3 & Tentative de stratégie mais manquant de rigueur ou mal adaptée au problème. & \\ \hline
+	2/3 & Démarche globalement logique et structurée mais quelques étapes floues ou peu justifiées. & \\ \hline
+	3/3 & Démarche claire, logique et rigoureuse. & \\ \hline
+	
+	& \textbf{Esprit critique et vérification des résultats (2 points)} & \\ \hline
+	0/2 & Les résultats ne sont pas critiqués a posteriori & \\ \hline
+	1/2 & Démarche critique mais quelques erreurs non corrigées ou interprétations de certains résultats peu convaincantes. & \\ \hline
+	2/2 & Utilisation systématique de l'homogénéité, de l'interprétation physique ou de la comparaison à des expressions ou des ordres de grandeur connus, permettant de corriger certaines erreurs en autonomie ou d'apporter un éclaircissement scientifique. & \\ \hline
+	
+	& \textbf{Expression orale (2 points)} & \\ \hline
+	0/2 & Expression confuse, vocabulaire inadapté, fautes répétées d'expression. & \\ \hline
+	1/2 & Expression compréhensible mais parfois imprécise ou peu fluide & \\ \hline
+	2/2 & Expression claire, structurée et précise. Vocabulaire scientifique. & \\ \hline
+	
+	& \textbf{Expression écrite (2 points)} & \\ \hline
+	0/2 & Tableau mal tenu, absence de figures, notations incorrectes ou dessins inutilisables. & \\ \hline
+	1/2 & Tableau soigné mais les schémas manquent de lisibilité ou de pertinence. & \\ \hline
+	2/2 & Tableau soigné. Schémas clairs, bien annotés, exploités dans l'argumentation. & \\ \hline
+	
+	& \textbf{Réactivité aux questions et indications (1 point)} & \\ \hline
+	0/1 & Incapacité à comprendre les questions ou à s'adapter aux remarques. & \\ \hline
+	1/1 & Bonne écoute, réponses adaptées et correction rapide d'éventuelles erreurs. & \\ \hline
+	
+	& \textbf{Autonomie et initiative (1 point)} & \\ \hline
+	0/1 & Attend des indications pour avancer. & \\ \hline
+	1/1 & Prend des initiatives réfléchies, explore différentes pistes avec jugement. & \\ \hline
+	
+	& \textbf{Total (20 points)} & \\
+	& & \\ \hline
+\end{tabular} 
+\end{center}
+\end{scriptsize}
+
+\end{document}
